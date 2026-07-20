@@ -1,0 +1,9 @@
+material_id,category,epic_reference,items_or_systems,external_research_area,production_use,confidence,limitations
+MAT-001,Anklets,Pukār and Madurai Kāṇṭams,"paired anklets, interior contents, custody, sound and proof","South Indian jewellery studies","Hero prop design and continuity tracking",high,"Exact historical manufacture not recoverable"
+MAT-002,Jewellery,Pukār Kāṇṭam,"gold, pearls, gems and ornaments","Early historic jewellery archaeology","Status, wealth and identity design",medium,"Literary description is not a catalogue"
+MAT-003,Textiles,Pukār and journey sections,"wedding dress, performance costume, travel changes","Textile archaeology and Sangam references","Costume progression",medium,"Dye and fabric choices require specialist review"
+MAT-004,Performance instruments,Pukār Kāṇṭam Arangēṟṟu Kāthai,"yāḻ, flute, percussion and dance systems","Tamil musicology and performance studies","Mādhavi performance world",medium,"Reconstruction requires music experts"
+MAT-005,Ships and trade goods,Pukār Kāṇṭam,"maritime exchange, imported and local goods","Indian Ocean archaeology","Harbour and market design",medium,"Ship forms remain research dependent"
+MAT-006,Craft production,Madurai Kāṇṭam,"goldsmithing and specialist crafts","Craft archaeology and metallurgy","Market and artisan districts",medium,"Individual workshop details uncertain"
+MAT-007,Food and agriculture,Journey sections,"rice, millet, sugarcane and regional crops","Archaeobotany and historical agriculture","Landscape realism",medium,"Exact dishes and recipes uncertain"
+MAT-008,Memorial objects,Vañji Kāṇṭam,"stone, consecration and worship installation","Hero stones and memorial traditions","Final monument sequence",medium,"Pattini monument cannot be equated with every memorial stone tradition"
