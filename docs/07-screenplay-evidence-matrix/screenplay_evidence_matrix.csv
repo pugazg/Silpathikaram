@@ -1,0 +1,25 @@
+scene_id,working_scene_title,location,time_period,dramatic_function,evidence_ids,adaptation_decision_ids,status
+SC-001,The witnesses beneath the vengai,Hill country,Framing present,"Introduce Kannaki as remembered catastrophe and establish that the story is received and transmitted","EV-0001;EV-0002;EV-0019;EV-0020","AD-0001;AD-0011",concept
+SC-002,Moon sun rain and Pukar,Pukar,Opening movement,"Establish royal city, maritime abundance and the scale of the world that will be lost","EV-0004;EV-0014","AD-0012;AD-0015",concept
+SC-003,Two merchant houses,Pukar,Early household period,"Introduce Kannaki and Kovalan through wealth, family expectation and adult casting rather than romantic myth alone","EV-0004;EV-0005","AD-0002",concept
+SC-004,Madhavi's debut,Pukar performance space,Early Pukar,"Establish artistic labour, public mastery, patronage and the beginning of Kovalan's attachment","EV-0006;EV-0014","AD-0006;AD-0013",concept
+SC-005,The cost of acclaim,Pukar,Later Pukar,"Show intimacy, status and depletion of wealth without reducing Madhavi to a moral cause","EV-0006","AD-0005;AD-0006",concept
+SC-006,Kanal Vari,Pukar seashore,Festival period,"Use performance and misreading to turn artistic expression into relational rupture","EV-0014","AD-0006;AD-0013",research_required
+SC-007,Return to Kannaki,Pukar household,After separation,"Make apology, anger, remaining property and the decision to leave dramatically legible","EV-0007","AD-0003;AD-0005",research_required
+SC-008,The anklet wrapped for the road,Pukar edge,Night of departure,"Transform the anklet from household object into survival property and bind the couple to a final shared risk","EV-0003;EV-0007;EV-0024","AD-0003",concept
+SC-009,Kaundi and the changing land,Road south,Journey,"Strip away urban protection and reveal ecological, religious and social knowledge","EV-0016;EV-0017;EV-0018","AD-0010;AD-0012",concept
+SC-010,First sight of Madurai,Madurai approaches,Journey's end,"Establish the capital as prosperous, inhabited and institutionally confident before failure","EV-0015","AD-0004;AD-0008;AD-0012",concept
+SC-011,Refuge and separation,Madurai outskirts and city,Same day,"Place Kannaki in temporary protection while Kovalan enters an unfamiliar market alone","EV-0015;EV-0007","AD-0003;AD-0004",research_required
+SC-012,The goldsmith sees the anklet,Madurai market,Same day,"Activate prior theft, specialist recognition and deliberate false accusation","EV-0007;EV-0008","AD-0003;AD-0004",concept
+SC-013,The order moves,Madurai court and streets,Same day,"Show accusation becoming royal violence through an untested chain of authority","EV-0009;EV-0027","AD-0004",concept
+SC-014,Kovalan at the execution ground,Madurai execution ground,Same day,"Complete the wrongful killing without implying moral punishment for earlier failures","EV-0010","AD-0004;AD-0005;AD-0009",concept
+SC-015,News reaches Kannaki,Madurai refuge,Same day,"Turn private restraint into embodied grief and deliberate movement toward public truth","EV-0010;EV-0015","AD-0007",research_required
+SC-016,The city hears her,Madurai streets,Same day,"Make the city-circling movement a public gathering of testimony rather than a transition montage","EV-0015","AD-0007;AD-0008",research_required
+SC-017,The paired anklets,Madurai court,Same day,"Use material evidence to overturn royal certainty and expose failed government","EV-0003;EV-0008;EV-0009;EV-0012;EV-0024;EV-0027","AD-0003;AD-0004;AD-0007",concept
+SC-018,The king falls,Madurai court,Same day,"Separate recognition, responsibility, grief and collapse from the later destruction of the city","EV-0012;EV-0015","AD-0007;AD-0009",research_required
+SC-019,Law of fire,Madurai,Same day and night,"Stage Kannaki's vow and the burning as sacred event and inhabited civic catastrophe","EV-0011;EV-0012;EV-0015","AD-0008;AD-0014",concept
+SC-020,The goddess explains,Burned Madurai,After catastrophe,"Hold former-birth causation beside present human and governmental responsibility","EV-0013;EV-0028","AD-0009;AD-0014",concept
+SC-021,Beneath the flowering vengai,Hill country,Fourteen-day aftermath,"Let Kannaki state her own catastrophe before the hill people interpret what they witness","EV-0019;EV-0020","AD-0011",concept
+SC-022,Take her as our deity,Hill settlement,After celestial signs,"Show collective music, flowers, smoke and protective boundary as active deification","EV-0021;EV-0022","AD-0011;AD-0014",concept
+SC-023,The story reaches Senguttuvan,Chera country,Later,"Shift from local witness to royal memory-making and interstate scale","EV-0002;EV-0014","AD-0001",research_required
+SC-024,Stone water and memorial,Chera routes and Vanji,Later,"Conclude with the labour, politics and ritual through which the story becomes institution","EV-0002;EV-0014;EV-0021","AD-0001;AD-0012;AD-0014",research_required
