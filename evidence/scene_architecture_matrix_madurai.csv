@@ -1,0 +1,8 @@
+matrix_part,scene_range,path,record_count,status
+1A,SCN-MDU-001--SCN-MDU-005,evidence/scene_architecture_matrix_madurai_part1a.csv,5,verified
+1B,SCN-MDU-006--SCN-MDU-010,evidence/scene_architecture_matrix_madurai_part1b.csv,5,verified
+2A,SCN-MDU-011--SCN-MDU-015,evidence/scene_architecture_matrix_madurai_part2a.csv,5,verified
+2B,SCN-MDU-016--SCN-MDU-020,evidence/scene_architecture_matrix_madurai_part2b.csv,5,verified
+3A,SCN-MDU-021--SCN-MDU-025,evidence/scene_architecture_matrix_madurai_part3a.csv,5,verified
+3B,SCN-MDU-026--SCN-MDU-030,evidence/scene_architecture_matrix_madurai_part3b.csv,5,verified
+total,SCN-MDU-001--SCN-MDU-030,,30,verified_continuous
