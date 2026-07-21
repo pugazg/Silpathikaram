@@ -1,0 +1,6 @@
+sequence_order,scene_id,scene_title,source_ids,form_label,lock_state,dramatic_function,transition_target,status
+16,SCN-MDU-016,The gate receives a claimant not a petitioner,"HWT-0124;HWT-0125",SOURCE_COMPOSITE,LOCKED_SOURCE,Bring evidence-bearing outsider before authority,SCN-MDU-017,verified
+17,SCN-MDU-017,Kaṇṇaki establishes standing,HWT-0126,SOURCE_DIRECT,LOCKED_SOURCE,Restore Kōvalaṉ's identity and context,SCN-MDU-018,verified
+18,SCN-MDU-018,Gems against pearls,HWT-0127,SOURCE_DIRECT,LOCKED_SOURCE,Make material proof possible,SCN-MDU-019,verified
+19,SCN-MDU-019,The object completes the argument,HWT-0128,SOURCE_DIRECT,LOCKED_SOURCE,Let evidence defeat assumption,SCN-MDU-020,verified
+20,SCN-MDU-020,The sceptre indicts itself,"HWT-0129;HWT-0130",SOURCE_COMPOSITE,LOCKED_SOURCE,Collapse royal certainty,SCN-MDU-021,verified
