@@ -1,0 +1,7 @@
+sequence_order,scene_id,scene_title,source_ids,form_label,lock_state,dramatic_function,transition_target,status
+1,SCN-ROAD-001,The ground refuses confidence,HWT-0061,SOURCE_DIRECT,LOCKED_SOURCE,Terrain removes social confidence,SCN-ROAD-002,verified
+2,SCN-ROAD-002,Kāviri works around them,HWT-0062,MIXED_PERFORMANCE,LOCKED_ADAPTATION,Place travellers inside agrarian labour,SCN-ROAD-003,verified
+3,SCN-ROAD-003,Distance is counted by halts,HWT-0063,SOURCE_COMPOSITE,LOCKED_ADAPTATION,Make duration and bodily cost visible,SCN-ROAD-004,verified
+4,SCN-ROAD-004,Teaching on the river island,HWT-0064,MIXED_PERFORMANCE,DEVELOPMENT,Frame karma without excusing later institutions,SCN-ROAD-005,verified
+5,SCN-ROAD-005,The south bank removes shelter,"HWT-0065;HWT-0066",SOURCE_COMPOSITE,LOCKED_SOURCE,Increase social vulnerability,SCN-ROAD-006,verified
+6,SCN-ROAD-006,The road is argued before it is taken,"HWT-0067;HWT-0068",SOURCE_COMPOSITE,DEVELOPMENT,Make route knowledge political and ethical,SCN-ROAD-007,verified
