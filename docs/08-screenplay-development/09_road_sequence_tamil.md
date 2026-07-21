@@ -2,16 +2,16 @@
 
 ## Movement status
 
-`ROAD_DRAFT_V1_IN_PROGRESS`
+`ROAD_DRAFT_V1_COMPLETE`
 
-The Tamil screenplay currently covers the Road through the outer-capital shelter:
+The Tamil screenplay now covers the complete Road movement:
 
-- Film minutes: `46.0`–`68.0`
-- Scene units: `SCN-ROAD-001`–`SCN-ROAD-014`
-- Draft files: 7
-- Matrix status: first 14 of 18 rows `drafted_v1`
+- Film minutes: `46.0`–`74.0`
+- Scene units: `SCN-ROAD-001`–`SCN-ROAD-018`
+- Draft files: 9
+- Matrix status: all 18 rows `drafted_v1`
 - Previous transition: continuous from `SCN-PUK-024`
-- Next scene: `SCN-ROAD-015`
+- Next transition: continuous into `SCN-MDU-001`
 
 | Part | Scene range | Runtime | Path | Status |
 |---|---|---:|---|---|
@@ -22,11 +22,13 @@ The Tamil screenplay currently covers the Road through the outer-capital shelter
 | 3A | `SCN-ROAD-010` | 1.5 min | `docs/08-screenplay-development/drafts/16_road_sequence_part3a_tamil.md` | draft_v1 |
 | 3B | `SCN-ROAD-011`–`SCN-ROAD-012` | 4.0 min | `docs/08-screenplay-development/drafts/17_road_sequence_part3b_tamil.md` | draft_v1 |
 | 3C | `SCN-ROAD-013`–`SCN-ROAD-014` | 2.5 min | `docs/08-screenplay-development/drafts/18_road_sequence_part3c_tamil.md` | draft_v1 |
-| **current total** | `SCN-ROAD-001`–`SCN-ROAD-014` | **22.0 min** | **7 files** | **continuous_draft_v1** |
+| 4A | `SCN-ROAD-015`–`SCN-ROAD-016` | 3.0 min | `docs/08-screenplay-development/drafts/19_road_sequence_part4a_tamil.md` | draft_v1 |
+| 4B | `SCN-ROAD-017`–`SCN-ROAD-018` | 3.0 min | `docs/08-screenplay-development/drafts/20_road_sequence_part4b_tamil.md` | draft_v1 |
+| **total** | `SCN-ROAD-001`–`SCN-ROAD-018` | **28.0 min** | **9 files** | **continuous_draft_v1** |
 
 ## Source coverage
 
-- `HWT-0061`–`HWT-0082`
+- `HWT-0061`–`HWT-0089`
 
 ## Locked dramatic controls
 
@@ -51,7 +53,15 @@ The Tamil screenplay currently covers the Road through the outer-capital shelter
 19. Korravai/Aiyai practice retains source-specific religious identity and is not automatically assimilated into later standardised goddess imagery.
 20. Moonlit travel expresses genuine trust in Pāṇḍya road order; the state is not visually pre-condemned before its procedural failure.
 21. The outer religious settlement provides rule-based temporary safety and remains distinct from Mādhari’s later household refuge.
-22. Kausika’s arrival now carries Pukār’s unresolved consequences and Mādhavi’s material letter into `SCN-ROAD-015`.
+22. Kausika carries the consequences of Pukār into the Road as family news, not exposition alone.
+23. Mādhavi’s flower-letter reappears with recognisable scent, seal, thread and material structure from `SCN-PUK-016`.
+24. The letter corrects Kōvalaṉ’s interpretation and establishes Mādhavi’s innocence without purifying Kōvalaṉ or erasing Kaṇṇaki’s injury.
+25. Kōvalaṉ sends news to both merchant households before entering Madurai.
+26. Madurai arrives first through layered sound, smell, smoke, labour and animal systems before the walls are fully visible.
+27. Madurai begins as an organised and desirable capital; its later justice failure is not visually predetermined.
+28. Vaigai crossing, river work, cultivated edge, moat, wall, flags and gate create one connected urban threshold.
+29. The Road ends with the anklet still unopened under Kaṇṇaki’s control and her injured body still requiring refuge.
+30. `SCN-ROAD-018` hands directly into `SCN-MDU-001`, where the capital wakes behind maintained walls.
 
 ## Revision gate before Draft V2
 
@@ -61,11 +71,15 @@ Review is required for:
 - early historic footwear, load distribution, foot injury and traveller rest practice;
 - river-island or ascetic settlement reconstruction;
 - doctrinal terminology and religious identification;
-- river-crossing method, operator role, fee and safety practice;
+- river-crossing methods, operator roles, fees and safety practice;
 - oral route geography, seasonal ecology and cave-route sacred knowledge;
 - forest-deity tradition, protective mantra and performance-doubling grammar;
 - Aiyai/Korravai ritual sequence, Sālini’s source language, music, offerings, costume and possession practice;
 - hunter-community settlement, tools, subsistence and care materials;
 - moonlight travel, Pāṇḍya road-security signs and portable lamps;
 - outer religious settlement identity, architecture and guest rules;
+- Kausika’s route, messenger practice and the exact scope of family news;
+- flower-letter source wording, material preservation, seal and handling continuity;
+- Madurai approach soundscape, smoke, food, animals, markets and palace signals;
+- Vaigai crossing, riverfront labour, moat, fortification, flags, gate and entry procedure;
 - Tamil dialogue rhythm and register.
