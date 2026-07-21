@@ -90,6 +90,19 @@ The critical study is a secondary interpretive source and does not override the 
 - [`docs/01-vision/01_vision_and_research_foundation.md`](docs/01-vision/01_vision_and_research_foundation.md) — wider research and adaptation foundation
 - [`docs/01-vision/02_core_adaptation_principles.md`](docs/01-vision/02_core_adaptation_principles.md) — binding Tamil-source-governed principles
 
+## Character Bible
+
+The first source-governed performance layer covers the four characters who generate the epic’s principal causal chain:
+
+- [`docs/04-characters/00_character_bible_method_and_index.md`](docs/04-characters/00_character_bible_method_and_index.md) — method, evidence labels and index
+- [`docs/04-characters/01_kannaki_performance_dossier.md`](docs/04-characters/01_kannaki_performance_dossier.md) — Kaṇṇaki
+- [`docs/04-characters/02_kovalan_performance_dossier.md`](docs/04-characters/02_kovalan_performance_dossier.md) — Kōvalaṉ
+- [`docs/04-characters/03_madhavi_performance_dossier.md`](docs/04-characters/03_madhavi_performance_dossier.md) — Mādhavi
+- [`docs/04-characters/04_kaundi_performance_dossier.md`](docs/04-characters/04_kaundi_performance_dossier.md) — Kauṇṭi
+- [`evidence/character_source_matrix_core_four.csv`](evidence/character_source_matrix_core_four.csv) — machine-readable mapping from performance phases to HWT evidence IDs
+
+Each dossier separates direct textual support from controlled interpretation and explicitly records forbidden simplifications, locked adaptation decisions and open questions.
+
 ## Source-completeness note for *Silambō Silambu!*
 
 The supplied Project Madurai e-text breaks off during Chapter 17 and resumes at Chapter 20 under an embedded Part 2 header. The remainder of Chapter 17 and the whole of Chapters 18–19 are absent from that source. The translation marks these omissions explicitly and does not invent missing text. The prose of Chapter 26 is present, although its heading is absent in the body; the heading has been restored from the source table of contents.
