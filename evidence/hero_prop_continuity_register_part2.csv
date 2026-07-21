@@ -1,0 +1,9 @@
+prop_id,prop_name,source_ids,first_scene,last_scene,owner_history,condition_states,department,status
+PROP-009,Pāṇḍya royal emblems,HWT-0123-HWT-0130,SCN-MDU-011,SCN-MDU-022,Court administration,DREAM;ROUTINE;COLLAPSE,Art;Props,LOCKED_SOURCE
+PROP-010,Cēra sword parasol drum and documents,HWT-0169-HWT-0179;HWT-0190,SCN-VAN-015,SCN-VAN-027,Royal mobilisation system,PROCLAMATION;CAMPAIGN;RETURN,Props;Art,LOCKED_SOURCE
+PROP-011,Ritual drums horns bells,HWT-0075-HWT-0080;HWT-0154-HWT-0159;HWT-0193-HWT-0194,SCN-ROAD-006,SCN-VAN-028,Hunter community hill rite shrine system,RITUAL_USE;INSTALLATION;MAINTENANCE,Sound;Props,HISTORICAL_RESEARCH
+PROP-012,Goldsmith tools,HWT-0100-HWT-0102,SCN-MDU-006,SCN-MDU-008,Goldsmith workshop,WORKSHOP;INSPECTION;EVIDENCE_HANDLING,Props;Art,HISTORICAL_RESEARCH
+PROP-013,Mādhari pastoral household objects,HWT-0098-HWT-0099;HWT-0108-HWT-0114,SCN-MDU-003,SCN-MDU-005,Pastoral household,DAILY_USE;REFUGE;RITUAL,Props;Set,HISTORICAL_RESEARCH
+PROP-014,Fire continuity objects,HWT-0131-HWT-0144,SCN-MDU-021,SCN-MDU-030,City households institutions and court,BEFORE_FIRE;DAMAGED;ASH;SURVIVAL,VFX;Props,DEVELOPMENT
+PROP-015,Expedition material system,HWT-0170-HWT-0188,SCN-VAN-015,SCN-VAN-025,Army councils and logistics,PROVISIONING;CAMPAIGN;BATTLE;RETURN,Props;Production,HISTORICAL_RESEARCH
+PROP-016,Pattini stone and installed image,HWT-0168-HWT-0169;HWT-0182-HWT-0185;HWT-0193-HWT-0194,SCN-VAN-013,SCN-VAN-030,Stone source to shrine institution,EXTRACTION;CONSECRATION;INSTALLATION;MAINTENANCE,Art;Props;Ritual,LOCKED_SOURCE
