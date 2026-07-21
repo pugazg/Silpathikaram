@@ -1,0 +1,6 @@
+design_id,world_or_system,dossier_path,primary_hwt_range,scene_range,core_design_thesis,critical_lock,status
+PDW-001,Pukār,docs/06-production-design/02_pukar_visual_world_dossier.md,HWT-0002--HWT-0060,SCN-PUK-002--SCN-PUK-024,Abundance and exchange remain in motion,Pukār must function before it is lost,verified
+PDW-002,Road,docs/06-production-design/03_road_visual_world_dossier.md,HWT-0061--HWT-0089,SCN-ROAD-001--SCN-ROAD-018,Inhabited ecology transforms bodies and relationships,No empty fantasy wilderness,verified
+PDW-003,Madurai,docs/06-production-design/04_madurai_visual_world_dossier.md,HWT-0090--HWT-0152,SCN-MDU-001--SCN-MDU-030,Organised authority collapses through failed justice,Anklet proof and selective fire remain material and explicit,verified
+PDW-004,Vañci,docs/06-production-design/05_vanji_visual_world_dossier.md,HWT-0153--HWT-0197,SCN-VAN-001--SCN-VAN-030,Experience becomes memory policy monument and recurring worship,Local recognition precedes royal institutionalisation,verified
+PDW-005,Material culture,docs/06-production-design/06_material_culture_bible.md,HWT-0002--HWT-0197,SCN-PUK-002--SCN-VAN-030,Objects carry wealth evidence authority ritual and memory,Hero objects require source history condition and department sign-off,verified
