@@ -1,0 +1,19 @@
+concordance_id,zone_or_system,source_file,kandam,canto,passage_span,anchor_phrase,source_claim,verification_status
+HWT-0090,MAD-Z01 outer gardens and approach,madurai_kaandam.md,Madurai,14. Seeing the City,1-10,"புறஞ்சிறைப் பொழிலும்","Madurai is approached through outer gardens, water bodies, fields and dawn ecology before the urban core",verified_exact
+HWT-0091,MAD-Z02 sacred institutions,madurai_kaandam.md,Madurai,14. Seeing the City,10-15,"இறையோன் கோயிலும்","The city contains multiple sacred institutions and ritual spaces",verified_exact
+HWT-0092,MAD-Z03 royal city axis,madurai_kaandam.md,Madurai,14. Seeing the City,15-30,"கூடல் ஊர்துயி லெடுப்ப","Royal authority, temples and civic order define the waking capital",verified_exact
+HWT-0093,MAD-Z04 fortified city,madurai_kaandam.md,Madurai,14. Seeing the City,60-75,"அகழி","Moat, walls, guarded gates and military protection shape the urban boundary",verified_exact
+HWT-0094,MAD-Z05 river leisure system,madurai_kaandam.md,Madurai,14. Seeing the City,70-85,"வையையின் மருதோங்கு முன்றுறை","Vaigai riverfront supports recreation, flowers, boats and seasonal life",verified_exact
+HWT-0095,MAD-Z06 merchant streets,madurai_kaandam.md,Madurai,14. Seeing the City,140-170,"வாணிகப் பீடிகை","Merchant institutions, luxury goods and specialised commercial streets operate within Madurai",verified_exact
+HWT-0096,MAD-Z06 performance economy,madurai_kaandam.md,Madurai,14. Seeing the City,145-160,"ஆடலும் வரியும் பாணியும்","Dance, music, performance traditions and trained artists form an urban cultural economy",verified_exact
+HWT-0097,MAD-Z06 market classification,madurai_kaandam.md,Madurai,14. Seeing the City,170-215,"அங்காடி வீதியும்","Gold, textiles, grain, gems and craft products occupy specialised market streets",verified_exact
+HWT-0098,MAD-Z07 refuge system,madurai_kaandam.md,Madurai,15. Refuge,1-30,"புறஞ்சிறை மூதூர்","Outer settlement and righteous households provide protection for travellers",verified_exact
+HWT-0099,MAD-Z07 Mādhari refuge,madurai_kaandam.md,Madurai,15. Refuge,115-150,"ஆயர் முதுமகள் மாதரி","Mādhari offers Kaṇṇaki shelter through the pastoral hospitality tradition",verified_exact
+HWT-0100,MAD-Z08 Kōvalaṉ market movement,madurai_kaandam.md,Madurai,16. Execution Ground,90-120,"பீடிகைத் தெருவிற்","Kōvalaṉ enters artisan streets and encounters the goldsmith quarter",verified_exact
+HWT-0101,MAD-Z08 goldsmith deception,madurai_kaandam.md,Madurai,16. Execution Ground,120-165,"பொய்வினைக் கொல்லன்","The goldsmith falsely identifies Kōvalaṉ as the thief of the queen's anklet",verified_exact
+HWT-0102,MAD-Z08 failed investigation,madurai_kaandam.md,Madurai,16. Execution Ground,150-215,"கொலைப்படு மகனலன்","A wrongful execution occurs without proper examination of evidence",verified_exact
+HWT-0103,MAD-Z09 Kannaki accusation,madurai_kaandam.md,Madurai,20. Court Case,45-75,"கண்ணகி யென்பதென் பெயரே","Kannaki enters the royal court and proves the anklet was misidentified",verified_exact
+HWT-0104,MAD-Z09 royal collapse,madurai_kaandam.md,Madurai,20. Court Case,70-80,"யானோ அரசன் யானே கள்வன்","The king recognises his failure of justice and collapses",verified_exact
+HWT-0105,MAD-Z10 public grief,madurai_kaandam.md,Madurai,19. City Circumambulation,1-30,"கள்வனோ அல்லன் கணவன்","Kannaki's grief becomes a public accusation against failed kingship",verified_exact
+HWT-0106,MAD-Z10 fire and destruction,madurai_kaandam.md,Madurai,21. Vengeance Garland,40-65,"மதுரை வலமுறை","Kannaki invokes destruction of unjust Madurai while distinguishing protected innocents",verified_exact
+HWT-0107,MAD-Z11 divine aftermath,madurai_kaandam.md,Madurai,22. Fire,1-60,"அழல்வீடு","The city undergoes divine and moral consequences after the broken royal order",verified_exact
