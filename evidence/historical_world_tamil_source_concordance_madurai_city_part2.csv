@@ -1,3 +1,16 @@
 concordance_id,zone_or_system,source_file,kandam,canto,passage_span,anchor_phrase,source_claim,verification_status
-HWT-0108,MAD-Z08 pastoral omens,madurai_kaandam.md,Madurai,17. Aycciyar Kuravai,Opening omens,"குடத்துப்பால் உறையாமையும்","Milk, butter, calves, cattle and bells show abnormal signs before news of Kōvalaṉ's death reaches the pastoral settlement",verified_exact
-HWT-010
+HWT-0108,MAD-Z08 pastoral omens,madurai_kaandam.md,Madurai,17. Aycciyar Kuravai,Opening omens,"குடத்துப்பால் உறையாமையும்","Milk butter calves cattle and bells show abnormal signs before the death-news arrives",verified_exact
+HWT-0109,MAD-Z08 communal ritual response,madurai_kaandam.md,Madurai,17. Aycciyar Kuravai,Karuppam,"குரவை யாடுதும் யாம்","Mādhari organises a kuravai to relieve distress affecting the cattle and settlement",verified_exact
+HWT-0110,MAD-Z08 musical role system,madurai_kaandam.md,Madurai,17. Aycciyar Kuravai,Role assignment,"குரல் துத்தம் கைக்கிளை","Seven young women receive musical-note and dramatic identities in an ordered performance",verified_exact
+HWT-0111,MAD-Z08 pastoral sacred drama,madurai_kaandam.md,Madurai,17. Aycciyar Kuravai,Kuravai sequence,"மாயவன் தம்முனினொடும்","The dancers enact a pastoral sacred world of Māyavan Balarāma and Piññai",verified_exact
+HWT-0112,Tamil political praise,madurai_kaandam.md,Madurai,17. Aycciyar Kuravai,Ulvari praise,"தென்னர்கோன் / வளவன் / சேரன்","The kuravai praises the Pāṇḍya Cōḻa and Cēra rulers within one Tamil political field",verified_exact
+HWT-0113,MAD-Z08 ritual purpose,madurai_kaandam.md,Madurai,17. Aycciyar Kuravai,Closing prayer,"ஆத்தலைப் பட்ட துயர்தீர்க்க","Song and dance are explicitly directed toward removing communal distress and restoring victory",verified_exact
+HWT-0114,MAD-Z10 death-news transmission,madurai_kaandam.md,Madurai,18. Garland of Sorrow,1-25,"குரவை முடிவிலோர் ஊரரவம்","A city cry interrupts the completed kuravai and the accusation against Kōvalaṉ is reported",verified_exact
+HWT-0115,MAD-Z10 Kaṇṇaki grief,madurai_kaandam.md,Madurai,18. Garland of Sorrow,26-50,"மன்னவன் தவறிழைப்ப","Kaṇṇaki collapses and repeatedly identifies royal error as the cause of her widowhood",verified_exact
+HWT-0116,MAD-Z10 celestial confirmation,madurai_kaandam.md,Madurai,18. Garland of Sorrow,46-53,"கள்வனோ அல்லன்","A disembodied voice confirms Kōvalaṉ was not a thief and foretells fire for the city",verified_exact
+HWT-0117,MAD-Z10 anklet procession,madurai_kaandam.md,Madurai,19. City Circumambulation,1-14,"சிலம்பொன்று கையேந்தி","Kaṇṇaki carries the remaining anklet through Madurai as material evidence and public claim",verified_exact
+HWT-0118,MAD-Z10 citizens judge kingship,madurai_kaandam.md,Madurai,19. City Circumambulation,15-25,"வளையாத செங்கோல் வளைந்தது","Citizens interpret her suffering as proof that the supposedly straight sceptre has bent",verified_exact
+HWT-0119,MAD-Z10 crowd witness,madurai_kaandam.md,Madurai,19. City Circumambulation,26-35,"மதுரைக் கம்பலை மாக்கள்","The city crowd guides Kaṇṇaki to Kōvalaṉ's body and becomes witness to the injustice",verified_exact
+HWT-0120,MAD-Z10 body lament,madurai_kaandam.md,Madurai,19. City Circumambulation,35-50,"புண்பொழி குருதி","Kaṇṇaki embraces and laments Kōvalaṉ's bloodied body in the public street",verified_exact
+HWT-0121,MAD-Z10 civic moral questions,madurai_kaandam.md,Madurai,19. City Circumambulation,51-60,"பெண்டிரும் உண்டுகொல்","She asks whether women elders and gods still exist in a city where royal violence goes unanswered",verified_exact
+HWT-0122,MAD-Z09 decision for adjudication,madurai_kaandam.md,Madurai,19. City Circumambulation,60-75,"தீவேந்தன் தனைக்கண்டு","Kaṇṇaki resolves not to rest until she confronts the king and demands an account",verified_exact
