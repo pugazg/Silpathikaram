@@ -1,8 +1,16 @@
-# Tamil Opening Screenplay — Index
+# Tamil Pukār Screenplay — Draft V1 Index
 
-## Scope
+## Movement status
 
-The screenplay draft now covers film minutes `0.0`–`36.5` and scene units `SCN-PUK-001`–`SCN-PUK-016`.
+`PUKAR_DRAFT_V1_COMPLETE`
+
+The Tamil screenplay now covers the complete Pukār movement:
+
+- Film minutes: `0.0`–`46.0`
+- Scene units: `SCN-PUK-001`–`SCN-PUK-024`
+- Draft files: 11
+- Matrix status: all 24 rows `drafted_v1`
+- Transition: continuous into `SCN-ROAD-001`
 
 | Part | Scene range | Runtime | Path | Status |
 |---|---|---:|---|---|
@@ -14,36 +22,56 @@ The screenplay draft now covers film minutes `0.0`–`36.5` and scene units `SCN
 | 4B | `SCN-PUK-010`–`SCN-PUK-011` | 4.5 min | `docs/08-screenplay-development/drafts/06_opening_sequence_part4b_tamil.md` | draft_v1 |
 | 5A | `SCN-PUK-012`–`SCN-PUK-014` | 5.5 min | `docs/08-screenplay-development/drafts/07_opening_sequence_part5a_tamil.md` | draft_v1 |
 | 5B | `SCN-PUK-015`–`SCN-PUK-016` | 3.0 min | `docs/08-screenplay-development/drafts/08_opening_sequence_part5b_tamil.md` | draft_v1 |
-| total | `SCN-PUK-001`–`SCN-PUK-016` | 36.5 min | 8 files | continuous_draft_v1 |
+| 6A | `SCN-PUK-017`–`SCN-PUK-018` | 2.0 min | `docs/08-screenplay-development/drafts/09_opening_sequence_part6a_tamil.md` | draft_v1 |
+| 6B | `SCN-PUK-019`–`SCN-PUK-020` | 3.5 min | `docs/08-screenplay-development/drafts/10_opening_sequence_part6b_tamil.md` | draft_v1 |
+| 6C | `SCN-PUK-021`–`SCN-PUK-024` | 4.0 min | `docs/08-screenplay-development/drafts/11_opening_sequence_part6c_tamil.md` | draft_v1 |
+| **total** | `SCN-PUK-001`–`SCN-PUK-024` | **46.0 min** | **11 files** | **continuous_draft_v1** |
 
 ## Source coverage
 
 - `HWT-0001`
 - `HWT-0002`–`HWT-0028`
-- `HWT-0029`–`HWT-0053`
+- `HWT-0029`–`HWT-0061`
 
-## Draft controls
+`HWT-0044`, previously absent from the conversion matrix, is now assigned to `SCN-PUK-011`. It supplies Mādhavi’s chosen sea-outing bridge with Kōvalaṉ before the Kāṉal Vari; the festival-city route remains grounded in `HWT-0025`–`HWT-0027`.
 
-1. Invented dialogue, temporary song lyrics and letter wording are explicitly identified as adaptation writing, not quotation from the Tamil poem.
-2. Pukār is introduced as a working river–sea and merchant city rather than a decorative palace world.
-3. The marriage establishes kinship, property and public responsibility without inventing a modern courtship.
-4. Kaṇṇaki’s household competence is shown before separation and tragedy.
-5. The anklet pair is introduced as protected household property; its internal contents remain hidden.
-6. Mādhavi’s mastery is established through seven years of embodied work rather than spontaneous glamour.
-7. The arangēṟṟu is shown as a collective institution involving teachers, musicians, stage workers, measured space and ritual preparation.
-8. Kōvalaṉ enters Mādhavi’s world through an observable choice and an economic threshold; he is not portrayed as magically compelled.
-9. The garland is treated simultaneously as honour, commodity and relational threshold.
-10. The parallel evening preserves distinct material and emotional worlds without inventing a direct Kaṇṇaki–Mādhavi rivalry.
-11. The Indra festival reveals streets, forums, sacred institutions, labour systems and crowd logistics; it is not collapsed into one later-style temple spectacle.
-12. The eleven dances are treated as professional transformations requiring costume, instrument, breath and body management.
-13. Profession-specific lamps and working routes carry the characters to a socially occupied shoreline rather than an empty romantic beach.
-14. The Kāṉal Vari remains an interpretive crisis: Kōvalaṉ’s suspicion is visible, but Mādhavi’s objective infidelity is not asserted.
-15. Kōvalaṉ’s departure is treated as a proud, self-protective choice rather than a reasoned finding of guilt.
-16. Mādhavi’s trained body and musical labour continue after the relationship breaks.
-17. The flower-letter is a material correction of intention, not a generic romantic note.
-18. The flower-letter must remain identifiable when it reappears in `SCN-ROAD-016`, where Kōvalaṉ recognises Mādhavi’s innocence and his own error.
-19. The handoff now leads to `SCN-PUK-017`, where Dēvanti, sacred plurality and Kaṇṇaki’s warning dream enter the screenplay.
+## Locked dramatic controls
 
-## Revision gate
+1. Invented dialogue, temporary song lyrics and letter wording are adaptation writing, not quotation from the Tamil poem.
+2. Pukār is a working river–sea, merchant and artistic city rather than a decorative palace world.
+3. Kaṇṇaki’s household competence, property knowledge and judgement are visible before tragedy.
+4. Mādhavi’s mastery arises from seven years of embodied and institutional labour.
+5. The garland is honour, commodity and relational threshold; Kōvalaṉ enters through a choice.
+6. Kaṇṇaki and Mādhavi remain in distinct social and material worlds without an invented direct rivalry.
+7. The Indra festival remains source-specific and distributed across streets, forums, labour and sacred institutions.
+8. The eleven dances require costume, instrument, breath and body management.
+9. `HWT-0044` makes the sea outing Mādhavi’s choice; she is not passively taken there by Kōvalaṉ.
+10. The Kāṉal Vari remains interpretively open: Kōvalaṉ’s suspicion is shown, but Mādhavi’s infidelity is not asserted.
+11. The flower-letter remains a material correction that must reappear recognisably in `SCN-ROAD-016`.
+12. Kaṇṇaki’s warning dream signals danger without revealing the full future.
+13. Her refusal of Dēvanti’s proposed remedy is an act of judgement, not rejection of all sacred practice.
+14. Kōvalaṉ’s return does not restore the relationship automatically.
+15. The anklet becomes capital through Kaṇṇaki’s deliberate property decision; its contents remain hidden.
+16. Departure is not a triumphant romantic escape; it removes kin, household and civic protection.
+17. Kauṇṭi assesses feet, water, provisions and route danger rather than predicting fate.
+18. Kaṇṇaki’s body becomes the ethical limit on travel speed.
+19. Pukār ends as a functioning lost world and hands directly into the rough ground of `SCN-ROAD-001`.
 
-Before `draft_v2`, dialogue rhythm, harbour work, household architecture, marriage reconstruction, instrument technique, stage dimensions, ritual preparation, debut repertory, royal reward form, garland-sale practice, Indra-festival reconstruction, eleven-dance repertory, costume systems, profession-specific lamps, coastal transport, beach-pavilion acoustics, Kāṉal Vari musicology, poetic register, flower-letter materials, writing medium, seal and messenger practice require source and production review.
+## Revision gate before Draft V2
+
+Review is still required for:
+
+- Tamil dialogue and poetic register;
+- harbour and merchant-house reconstruction;
+- marriage practice and household architecture;
+- yāḻ and ensemble technique;
+- measured stage, ritual preparation and debut repertory;
+- royal reward and garland-sale practice;
+- Indra-festival systems and eleven-dance reconstruction;
+- costume engineering and profession-specific lamps;
+- coastal transport, beach pavilions and acoustics;
+- Kāṉal Vari musicology;
+- flower-letter materials, writing medium, seal and messenger practice;
+- Dēvanti’s ritual geography and sacred objects;
+- departure-route sacred institutions;
+- travel provisions, footwear and Kauṇṭi’s ascetic material culture.
