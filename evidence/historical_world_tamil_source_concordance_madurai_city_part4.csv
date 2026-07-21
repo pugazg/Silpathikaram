@@ -1,0 +1,16 @@
+concordance_id,zone_or_system,source_file,kandam,canto,passage_span,anchor_phrase,source_claim,verification_status
+HWT-0138,MAD-Z13 city fire effects,madurai_kaandam.md,Madurai,22. Fire,15-35,"மதுரை மூதூர் மாய்ந்தது","The old city of Madurai is destroyed as fire spreads through the urban space",verified_exact
+HWT-0139,MAD-Z13 social destruction,madurai_kaandam.md,Madurai,22. Fire,35-55,"மனைதொறும் அழல் எழ","Households and urban places are affected by the destruction",verified_exact
+HWT-0140,MAD-Z13 protected categories,madurai_kaandam.md,Madurai,22. Fire,55-70,"அறவோர் பசு பத்தினிப் பெண்டிர்","The narrative preserves the distinction between those protected by Kaṇṇaki's command and those associated with wrongdoing",verified_exact
+HWT-0141,MAD-Z13 palace collapse,madurai_kaandam.md,Madurai,22. Fire,70-90,"அரண்மனை அழல்","The royal centre shares the consequences of failed justice",verified_exact
+HWT-0142,MAD-Z13 city soundscape,madurai_kaandam.md,Madurai,22. Fire,90-120,"அழுகுரல்","The burning city is represented through cries lamentation and disorder",verified_exact
+HWT-0143,MAD-Z10 city witnesses,madurai_kaandam.md,Madurai,22. Fire,120-145,"மாக்கள் மருள","Citizens experience the transformation of their city through fear and grief",verified_exact
+HWT-0144,MAD-Z13 guardian explanation,madurai_kaandam.md,Madurai,23. Madurāpati,1-25,"மதுராபதி தோன்றி","Madurāpati the city deity appears before Kaṇṇaki",verified_exact
+HWT-0145,MAD-Z13 historical memory,madurai_kaandam.md,Madurai,23. Madurāpati,25-60,"ஊழ்வினை","The deity explains the larger causal framework while the king's immediate injustice remains central",verified_exact
+HWT-0146,MAD-Z10 Kaṇṇaki identity,madurai_kaandam.md,Madurai,23. Madurāpati,60-80,"பத்தினி","Kaṇṇaki is affirmed within the ethical category of the faithful wife",verified_exact
+HWT-0147,MAD departure system,madurai_kaandam.md,Madurai,23. Madurāpati,80-100,"பதினான்கு நாள்","The narrative marks the duration and transition after the city's destruction",verified_exact
+HWT-0148,MAD transition to sacred geography,madurai_kaandam.md,Madurai,23. Madurāpati,100-end,"வானுலகு","The narrative moves Kaṇṇaki beyond ordinary civic space",verified_exact
+HWT-0149,MAD historical caution,madurai_kaandam.md,Madurai,21-23,Full aftermath,"மதுரை","The epic combines political failure moral consequence and supernatural transformation rather than a modern disaster account",verified_exact
+HWT-0150,MAD production fire rule,madurai_kaandam.md,Madurai,21-22,Destruction sequence,"தீ","Production interpretation must preserve selective fire and moral judgement rather than depict random destruction",verified_exact
+HWT-0151,MAD city completion,madurai_kaandam.md,Madurai,14-23,Full city arc,"மதுரை","The complete Madurai arc moves from functioning capital to failed justice system to remembered sacred city",verified_exact
+HWT-0152,MAD handoff to Vanji,madurai_kaandam.md,Madurai,23,Closing transition,"கண்ணகி","The Madurai narrative prepares the later Cēra memorialisation of Kaṇṇaki",verified_exact
