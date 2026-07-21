@@ -1,2 +1,5 @@
-sequence_order,scene_id,scene_title,narrative_block,canto,source_ids,form_label,lock_state,location_time,principal_characters,dramatic_function,scene_turn,production_focus,transition_target,interpretive_limit,status
-1,SCN-ROAD-001,The ground refuses confidence,road exposure,10,HWT-0061,SOURCE_DIRECT,LOCKED_SOURCE,orchards morning,"Kaṇṇaki;Kōvalaṉ;Kauṇṭi",Terrain removes social confidence,Kauṇṭi becomes practically necessary,orchard hazards and feet,SCN-ROAD-002,No adventure
+matrix_part,scene_range,path,record_count,status
+1,SCN-ROAD-001--SCN-ROAD-006,evidence/scene_architecture_matrix_road_part1.csv,6,verified
+2,SCN-ROAD-007--SCN-ROAD-012,evidence/scene_architecture_matrix_road_part2.csv,6,verified
+3,SCN-ROAD-013--SCN-ROAD-018,evidence/scene_architecture_matrix_road_part3.csv,6,verified
+total,SCN-ROAD-001--SCN-ROAD-018,,18,verified_continuous
