@@ -1,0 +1,6 @@
+sequence_order,scene_id,scene_title,source_ids,form_label,lock_state,dramatic_function,transition_target,status
+26,SCN-MDU-026,The city loses its protectors,"HWT-0137;HWT-0138;HWT-0139;HWT-0140;HWT-0141;HWT-0142",SOURCE_COMPOSITE,LOCKED_ADAPTATION,Show collapse of governing environment,SCN-MDU-027,verified
+27,SCN-MDU-027,Madurai witnesses its transformation,"HWT-0143;HWT-0144",MIXED_PERFORMANCE,DEVELOPMENT,Shift catastrophe toward sacred encounter,SCN-MDU-028,verified
+28,SCN-MDU-028,Explanation follows proof,"HWT-0145;HWT-0146",SOURCE_COMPOSITE,LOCKED_SOURCE,Hold karma and responsibility together,SCN-MDU-029,verified
+29,SCN-MDU-029,Fourteen days beyond the city,"HWT-0147;HWT-0148",SOURCE_COMPOSITE,DEVELOPMENT,Move from civic action to sacred memory,SCN-MDU-030,verified
+30,SCN-MDU-030,Judgement becomes transferable memory,"HWT-0149;HWT-0150;HWT-0151;HWT-0152",CONTROLLED_BRIDGE,LOCKED_ADAPTATION,Prepare Cēra memorialisation,SCN-VAN-001,verified
