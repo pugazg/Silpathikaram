@@ -8,11 +8,12 @@ Objects carry wealth, labour, evidence, memory, authority and ritual action. Eac
 
 ## Parts
 
-| Part | Object systems | Path | Status |
-|---|---|---|---|
-| 1 | Anklets, instruments, flower-letter, trade objects, performance objects and travel equipment | `docs/06-production-design/06a_material_culture_objects_part1.md` | verified after fetch |
-| 2 | Ritual systems, royal emblems, goldsmith tools and pastoral household objects | `docs/06-production-design/06b_material_culture_objects_part2.md` | verified after fetch |
-| 3 | Fire objects, military logistics, Pattini stone, continuity register and sign-off | `docs/06-production-design/06c_material_culture_objects_part3.md` | verified after fetch |
+| Part | Object systems | Path | Records | Status |
+|---|---|---|---:|---|
+| 1 | Anklets, instruments, flower-letter, trade objects, performance objects and travel equipment | `docs/06-production-design/06a_material_culture_objects_part1.md` | 6 systems | verified |
+| 2 | Ritual systems, royal emblems, goldsmith tools and pastoral household objects | `docs/06-production-design/06b_material_culture_objects_part2.md` | 4 systems | verified |
+| 3 | Fire objects, military logistics, Pattini stone, continuity register and sign-off | `docs/06-production-design/06c_material_culture_objects_part3.md` | 7 systems | verified |
+| total | Cross-world material culture | 3 files | 17 systems | verified_continuous |
 
 ## Governing rules
 
