@@ -1,6 +1,6 @@
 part,scene_range,path,record_count,runtime_minutes,film_start_minute,film_end_minute,matrix_status,screenplay_draft_status
 part1,SCN-PUK-001--SCN-PUK-024,evidence/screenplay_scene_conversion_matrix_part1.csv,24,46.0,0.0,46.0,verified,draft_v1_complete
 part2,SCN-ROAD-001--SCN-ROAD-018,evidence/screenplay_scene_conversion_matrix_part2.csv,18,28.0,46.0,74.0,verified,draft_v1_complete
-part3,SCN-MDU-001--SCN-MDU-030,evidence/screenplay_scene_conversion_matrix_part3.csv,30,64.0,74.0,138.0,verified,draft_v1_in_progress_9_of_30
+part3,SCN-MDU-001--SCN-MDU-030,evidence/screenplay_scene_conversion_matrix_part3.csv,30,64.0,74.0,138.0,verified,draft_v1_in_progress_14_of_30
 part4,SCN-VAN-001--SCN-VAN-030,evidence/screenplay_scene_conversion_matrix_part4.csv,30,42.0,138.0,180.0,verified,planned
-total,SCN-PUK-001--SCN-VAN-030,,102,180.0,0.0,180.0,verified_continuous,51_of_102_scenes_drafted_v1
+total,SCN-PUK-001--SCN-VAN-030,,102,180.0,0.0,180.0,verified_continuous,56_of_102_scenes_drafted_v1
