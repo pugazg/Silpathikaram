@@ -1,0 +1,6 @@
+sequence_order,scene_id,scene_title,source_ids,form_label,lock_state,dramatic_function,transition_target,status
+1,SCN-MDU-001,The capital wakes behind its walls,"HWT-0090;HWT-0091;HWT-0092;HWT-0093",MIXED_PERFORMANCE,LOCKED_SOURCE,Establish institutional competence before failure,SCN-MDU-002,verified
+2,SCN-MDU-002,River market and performance city,"HWT-0094;HWT-0095;HWT-0096;HWT-0097",SOURCE_COMPOSITE,RESEARCH_HOLD,Make the anklet sale economically plausible,SCN-MDU-003,verified
+3,SCN-MDU-003,Care passes into Mādhari's house,"HWT-0098;HWT-0099",SOURCE_DIRECT,LOCKED_SOURCE,Transfer ascetic protection into household refuge,SCN-MDU-004,verified
+4,SCN-MDU-004,The cattle register disorder,HWT-0108,SOURCE_DIRECT,LOCKED_SOURCE,Let pastoral labour perceive disturbance materially,SCN-MDU-005,verified
+5,SCN-MDU-005,Kuravai as communal repair,"HWT-0109;HWT-0110;HWT-0111;HWT-0112;HWT-0113",MIXED_PERFORMANCE,RESEARCH_HOLD,Show performance acting upon shared fear,SCN-MDU-006,verified
