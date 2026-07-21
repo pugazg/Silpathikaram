@@ -1,2 +1,61 @@
-concordance_id,zone_or_system,source_file,kandam,canto,passage_span,anchor_phrase,source_claim,production_use,verification_status,notes
-HWT-0001,Project moral architecture,pukaar_kaandam.md,Pukār,Prologue,55-61,"அரைசியல் பிழைத்தோர்க்கு அறம்கூற்று ஆவதூஉம்","The epic declares failed rule, public praise of the renowned pattini, ripened past action, the anklet as cause and the work's relation to
+concordance_id,zone_or_system,source_file,kandam,canto,passage_span,anchor_phrase,source_claim,verification_status
+HWT-0001,Project moral architecture,pukaar_kaandam.md,Pukār,Prologue,55-61,"அரைசியல் பிழைத்தோர்க்கு அறம்கூற்று ஆவதூஉம்","Failed rule, pattini praise, fate and the anklet govern the epic",verified_exact
+HWT-0002,PUK-Z03 migrant quarter,pukaar_kaandam.md,Pukār,5. Indra Festival,7-12,"யவனர் இருக்கையும் / புலம்பெயர் மாக்கள்","Yavana residences and ship-borne migrants form a cosmopolitan port quarter",verified_exact
+HWT-0003,PUK-Z04 perfume market,pukaar_kaandam.md,Pukār,5. Indra Festival,13-15,"வண்ணமும் சுண்ணமும் தண்நறுஞ் சாந்தமும்","Colour, lime, sandal, flowers and incense are traded",verified_exact
+HWT-0004,PUK-Z04 textile quarter,pukaar_kaandam.md,Pukār,5. Indra Festival,16-17,"பட்டினும் மயிரினும் பருத்தி நூலினும்","Silk, hair or wool and cotton support textile production",verified_exact
+HWT-0005,PUK-Z04 luxury-goods street,pukaar_kaandam.md,Pukār,5. Indra Festival,18-21,"தூசும் துகிரும் ஆரமும் அகிலும்","Cloth, coral, sandal, akil, pearls, gems and gold are concentrated",verified_exact
+HWT-0006,PUK-Z04 grain street,pukaar_kaandam.md,Pukār,5. Indra Festival,22-23,"கூலம் குவித்த கூல வீதியும்","Classified goods and grain are stored in a dedicated street",verified_exact
+HWT-0007,PUK-Z04 food market,pukaar_kaandam.md,Pukār,5. Indra Festival,24-27,"மீன்விலைப் பரதவர் வெள்உப்புப் பகருநர்","Fish, salt, meat and prepared-food sellers form a dense market",verified_exact
+HWT-0008,PUK-Z05 craft workshops,pukaar_kaandam.md,Pukār,5. Indra Festival,28-34,"கஞ்ச காரரும் செம்புசெய் குநரும்","Metal, wood, clay, jewellery, tailoring and leather crafts are organised",verified_exact
+HWT-0009,PUK-Z09 musician quarter,pukaar_kaandam.md,Pukār,5. Indra Festival,35-39,"குழலினும் யாழினும் குரல்முதல் ஏழும்","Musicians master flute, yāḻ, voice and the seven notes",verified_exact
+HWT-0010,PUK-Z04 Maruvūrppākkam,pukaar_kaandam.md,Pukār,5. Indra Festival,13-39,"மருவூர்ப் பாக்கமும்","Commodity, craft, food and music streets define Maruvūrppākkam",verified_exact
+HWT-0011,PUK-Z07 royal axis,pukaar_kaandam.md,Pukār,5. Indra Festival,40-42,"கோவியன் வீதியும் கொடித்தேர் வீதியும்","Royal and bannered-chariot streets form a ceremonial axis",verified_exact
+HWT-0012,PUK-Z08 elite residences,pukaar_kaandam.md,Pukār,5. Indra Festival,41-47,"பெருங்குடி வாணிகர் மாட மறுகும்","Merchants, ritual specialists, physicians and artisans occupy distinct residences",verified_exact
+HWT-0013,PUK-Z07 court services,pukaar_kaandam.md,Pukār,5. Indra Festival,48-53,"சூதர் மாகதர் வேதாளிகரொடு","Bards, heralds, timekeepers, dancers and attendants support court life",verified_exact
+HWT-0014,PUK-Z07 military quarter,pukaar_kaandam.md,Pukār,5. Indra Festival,54-58,"கடும்பரி கடவுநர் களிற்றின் பாகர்","Horsemen, mahouts, charioteers and warriors occupy a service quarter",verified_exact
+HWT-0015,PUK-Z07 Paṭṭiṉappākkam,pukaar_kaandam.md,Pukār,5. Indra Festival,40-58,"பட்டினப் பாக்கமும்","Royal, merchant, professional and military functions define Paṭṭiṉappākkam",verified_exact
+HWT-0016,PUK-Z06 Nāḷaṅkāṭi,pukaar_kaandam.md,Pukār,5. Indra Festival,59-64,"இருபால் பகுதியின் இடைநிலம்","The day market links the two major quarters",verified_exact
+HWT-0017,PUK-Z06 guardian altar,pukaar_kaandam.md,Pukār,5. Indra Festival,65-75,"காவல் பூதத்துக் கடைகெழு பீடிகை","Food, flowers, incense and dance support civic protection ritual",verified_exact
+HWT-0018,PUK-Z06 martial ritual,pukaar_kaandam.md,Pukār,5. Indra Festival,76-88,"மருவூர் மருங்கின் மறம்கொள் வீரரும்","Warriors from both quarters perform public victory ritual",verified_exact
+HWT-0019,PUK-Z10 five forums,pukaar_kaandam.md,Pukār,5. Indra Festival,111-140,"ஐவகை மன்றத்தும்","Five civic forums serve custody, healing, justice and exposure",verified_exact
+HWT-0020,PUK-Z11 festival inauguration,pukaar_kaandam.md,Pukār,5. Indra Festival,141-160,"மங்கல நெடுங்கொடி வான்உற எடுத்து","Flags, drums, elephants, lamps and councils mobilise the city",verified_exact
+HWT-0021,PUK-Z10 sacred plurality,pukaar_kaandam.md,Pukār,5. Indra Festival,161-186,"பிறவா யாக்கைப் பெரியோன் கோயிலும்","Multiple sacred institutions, charity and public music coexist",verified_exact
+HWT-0022,PUK-Z11 continuous festival,pukaar_kaandam.md,Pukār,5. Indra Festival,187-200,"முழவுக்கண் துயிலாது","Festival streets remain awake with crowds, music and pleasure",verified_exact
+HWT-0023,PUK-Z09 dance repertoire,pukaar_kaandam.md,Pukār,6. Sea-Bathing Festival,18-67,"பதினோர் ஆடலும்","Eleven codified dances and associated songs form the repertoire",verified_exact
+HWT-0024,PUK-Z09 Mādhavi costume,pukaar_kaandam.md,Pukār,6. Sea-Bathing Festival,75-110,"பரியகம் நூபுரம் பாடகம் சதங்கை","Bathing, fragrance, clothing and detailed ornaments form a staged costume sequence",verified_exact
+HWT-0025,PUK-Z11 dawn route,pukaar_kaandam.md,Pukār,6. Sea-Bathing Festival,111-133,"வைகறை யாமம்","Mādhavi and Kōvalaṉ move through decorated streets to the shore",verified_exact
+HWT-0026,PUK-Z12 beach lighting,pukaar_kaandam.md,Pukār,6. Sea-Bathing Festival,134-145,"கைவினை விளக்கமும்","Profession-specific lamps identify sellers, boats, lighthouse and guards",verified_exact
+HWT-0027,PUK-Z12 coastal assembly,pukaar_kaandam.md,Pukār,6. Sea-Bathing Festival,146-165,"மலைப்பல் தாரமும் கடல்பல் தாரமும்","Goods, ships, elites, merchants and performers crowd the shore",verified_exact
+HWT-0028,PUK-Z12 beach pavilion,pukaar_kaandam.md,Pukār,6. Sea-Bathing Festival,166-173,"புன்னை நீழல் புதுமணல் பரப்பில்","A temporary painted pavilion creates elite privacy within the public beach",verified_exact
+HWT-0029,PUK city identity,pukaar_kaandam.md,Pukār,1. Wedding Blessing,1-20,"பூம்புகார் போற்றுதும்","Moon, sun, rain, Kāviri country and Pukār frame royal abundance",verified_exact
+HWT-0030,Kaṇṇaki merchant lineage,pukaar_kaandam.md,Pukār,1. Wedding Blessing,21-30,"மாநாய்கன் குலக்கொம்பர்","Kaṇṇaki belongs to a wealthy and respected merchant family",verified_exact
+HWT-0031,Kōvalaṉ merchant lineage,pukaar_kaandam.md,Pukār,1. Wedding Blessing,31-40,"மாசாத்து வான்என்பான்","Kōvalaṉ is heir to another wealthy merchant household",verified_exact
+HWT-0032,Public wedding system,pukaar_kaandam.md,Pukār,1. Wedding Blessing,41-65,"யானை எருத்தத்து அணிஇழையார்","The wedding uses elephants, drums, conches, pavilion, lamps and public display",verified_exact
+HWT-0033,PUK-Z08 merchant abundance,pukaar_kaandam.md,Pukār,2. Domestic Virtue,1-10,"அரும்பொருள் தருஉம் விருந்தின் தேஎம்","Ships and land transport feed an abundant merchant city",verified_exact
+HWT-0034,PUK-Z08 domestic architecture,pukaar_kaandam.md,Pukār,2. Domestic Virtue,11-35,"நெடுநிலை மாடத்து இடைநிலத்து","Upper-storey rooms, windows, terraces, beds and floral interiors shape elite domestic life",verified_exact
+HWT-0035,Independent household,pukaar_kaandam.md,Pukār,2. Domestic Virtue,84-90,"விருந்து புறந்தருஉம் பெருந்தண் வாழ்க்கையும்","The couple are established separately with hospitality, kin and household duties",verified_exact
+HWT-0036,PUK-Z09 Mādhavi training,pukaar_kaandam.md,Pukār,3. Arangēṟṟu,1-15,"ஏழாண்டு இயற்றி","Mādhavi trains seven years in dance, song and beauty before royal debut",verified_exact
+HWT-0037,PUK-Z09 specialist teachers,pukaar_kaandam.md,Pukār,3. Arangēṟṟu,16-50,"ஆடற்கு அமைந்த ஆசான்","Dance, music, yāḻ, flute, percussion and poetry require specialist teachers",verified_exact
+HWT-0038,PUK-Z09 stage dimensions,pukaar_kaandam.md,Pukār,3. Arangēṟṟu,95-110,"அரங்கம் அளக்கும்","The stage has measured dimensions, entrances, lamps, curtains and painted canopy",verified_exact
+HWT-0039,PUK-Z09 stage consecration,pukaar_kaandam.md,Pukār,3. Arangēṟṟu,111-130,"வழிபடு தலைக்கோல்","Royal procession, sacred water, drums and councils inaugurate the stage",verified_exact
+HWT-0040,PUK-Z09 ensemble order,pukaar_kaandam.md,Pukār,3. Arangēṟṟu,131-155,"குழல்வழி நின்றது யாழே","Flute, yāḻ, percussion and ensemble follow a formal performance sequence",verified_exact
+HWT-0041,Artistic economy,pukaar_kaandam.md,Pukār,3. Arangēṟṟu,156-175,"ஆயிரத்து எண்கழஞ்சு","Royal reward and garland sale connect prestige, payment and patronage",verified_exact
+HWT-0042,Urban evening system,pukaar_kaandam.md,Pukār,4. Evening,1-25,"எல்வளை மகளிர் மணிவிளக்கு எடுப்ப","Lamps, flowers, music and lovers mark the city’s evening transition",verified_exact
+HWT-0043,Kaṇṇaki–Mādhavi contrast,pukaar_kaandam.md,Pukār,4. Evening,26-60,"கோலம் கொண்ட மாதவி / கண்ணகி","Mādhavi prepares for union while Kaṇṇaki removes ornament in separation",verified_exact
+HWT-0044,Night-to-dawn soundscape,pukaar_kaandam.md,Pukār,4. Evening,61-82,"புள்வாய் முரசமொடு","Birds, drums, conches and guards carry the city from night to dawn",verified_exact
+HWT-0045,Kāṉal Vari yāḻ practice,pukaar_kaandam.md,Pukār,7. Kāṉal Vari,Prose 1,"வார்தல் வடித்தல் உந்தல் உறழ்தல்","Kōvalaṉ performs through named yāḻ techniques before singing",verified_exact
+HWT-0046,Kāviri political song,pukaar_kaandam.md,Pukār,7. Kāṉal Vari,Songs 2-4,"வாழி காவேரி","River abundance, kingship and chastity are joined in song",verified_exact
+HWT-0047,Coastal fisher world,pukaar_kaandam.md,Pukār,7. Kāṉal Vari,Songs 5-13,"வலைவாழ்நர் சேரி","Fishing settlement, drying fish, nets, sand and sea labour shape the imagery",verified_exact
+HWT-0048,Artistic counter-speech,pukaar_kaandam.md,Pukār,7. Kāṉal Vari,Songs 24-51,"தானும்ஓர் குறிப்பினள்போல்","Mādhavi interprets hidden meaning and answers through the same musical form",verified_exact
+HWT-0049,Misreading and separation,pukaar_kaandam.md,Pukār,7. Kāṉal Vari,Song 52,"மாயப்பொய் பலகூட்டும்","Kōvalaṉ treats Mādhavi’s performance as deceit and leaves",verified_exact
+HWT-0050,Seasonal political geography,pukaar_kaandam.md,Pukār,8. Summer,1-20,"மதுரையும் ... வஞ்சியும் ... புகாரும்","Summer links Madurai, Uraiyur, Vañji and Pukār within one Tamil political world",verified_exact
+HWT-0051,Mādhavi technical musicianship,pukaar_kaandam.md,Pukār,8. Summer,21-65,"அதிரா மரபின் யாழ்கை வாங்கி","Mādhavi tunes, tests modes and performs as a technically expert musician",verified_exact
+HWT-0052,Written flower-letter,pukaar_kaandam.md,Pukār,8. Summer,66-75,"விரித்துஉரை எழுதி","Mādhavi writes a message and sends it through Vasantamālai",verified_exact
+HWT-0053,Performance-coded appeal,pukaar_kaandam.md,Pukār,8. Summer,76-115,"கண்கூடு வரியும்","Named performance forms encode Mādhavi’s appeal and Kōvalaṉ rejects the message",verified_exact
+HWT-0054,Sacred-city plurality,pukaar_kaandam.md,Pukār,9. Dream,1-20,"அமரர் தருக்கோட்டம்","Kaṇṇaki’s social world includes numerous shrines and sacred establishments",verified_exact
+HWT-0055,Kaṇṇaki’s warning dream,pukaar_kaandam.md,Pukār,9. Dream,40-55,"கோவலற்கு உற்றதுஓர் தீங்கு","Her dream anticipates accusation, royal confrontation and danger to the city",verified_exact
+HWT-0056,Refusal of ritual remedy,pukaar_kaandam.md,Pukār,9. Dream,56-64,"பீடுஅன்று","Kaṇṇaki rejects ritual bathing as an unsuitable way to recover her husband",verified_exact
+HWT-0057,Kōvalaṉ returns,pukaar_kaandam.md,Pukār,9. Dream,65-71,"குலம்தரு வான்பொருள் குன்றம் தொலைந்த","Kōvalaṉ returns, sees Kaṇṇaki’s suffering and admits the loss of family wealth",verified_exact
+HWT-0058,Anklet as capital,pukaar_kaandam.md,Pukār,9. Dream,72-80,"சிலம்புஉள கொண்மின்","Kaṇṇaki offers the anklet and the couple decide to rebuild wealth in Madurai",verified_exact
+HWT-0059,Pre-dawn departure,pukaar_kaandam.md,Pukār,10. Seeing the Country,1-25,"வான்கண் விழியா வைகறை யாமத்து","They leave through the long gate and pass Viṣṇu, Buddhist and Jain-associated sites",verified_exact
+HWT-0060,Kāviri route and Kauṇṭi,pukaar_kaandam.md,Pukār,10. Seeing the Country,26-60,"காவிரி வாயில் கடைமுகம் கழிந்து","They cross the city edge, enter Kāviri groves and meet Kauṇṭi",verified_exact
