@@ -1,0 +1,4 @@
+sequence_order,scene_id,scene_title,source_ids,form_label,lock_state,dramatic_function,transition_target,status
+6,SCN-MDU-006,Kōvalaṉ carries the surviving capital alone,HWT-0100,SOURCE_DIRECT,LOCKED_SOURCE,Separate him from local merchant and guild protection,SCN-MDU-007,verified
+7,SCN-MDU-007,The goldsmith converts expertise into deception,HWT-0101,SOURCE_DIRECT,LOCKED_SOURCE,Show specialised credibility manufacturing a suspect,SCN-MDU-008,verified
+8,SC
