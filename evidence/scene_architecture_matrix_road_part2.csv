@@ -1,0 +1,7 @@
+sequence_order,scene_id,scene_title,source_ids,form_label,lock_state,dramatic_function,transition_target,status
+7,SCN-ROAD-007,Pālai is made by season,"HWT-0069;HWT-0070",SOURCE_COMPOSITE,LOCKED_SOURCE,Make ecology causal and unstable,SCN-ROAD-008,verified
+8,SCN-ROAD-008,The cave route promises knowledge,HWT-0071,MIXED_PERFORMANCE,RESEARCH_HOLD,Present a genuine competing sacred route,SCN-ROAD-009,verified
+9,SCN-ROAD-009,Kauṇṭi chooses the direct road,"HWT-0072;HWT-0073",SOURCE_DIRECT,LOCKED_SOURCE,Establish ethical route-making as action,SCN-ROAD-010,verified
+10,SCN-ROAD-010,The forest speaks in a familiar face,HWT-0074,MIXED_PERFORMANCE,DEVELOPMENT,Externalise unresolved Pukār memory,SCN-ROAD-011,verified
+11,SCN-ROAD-011,Heat drives them to Aiyai's enclosure,"HWT-0075;HWT-0076",SOURCE_COMPOSITE,LOCKED_SOURCE,Make Kaṇṇaki's bodily cost unavoidable,SCN-ROAD-012,verified
+12,SCN-ROAD-012,Sālini names a future no one understands,"HWT-0077;HWT-0078;HWT-0079;HWT-0080",MIXED_PERFORMANCE,RESEARCH_HOLD,Give anticipatory recognition without replacing legal proof,SCN-ROAD-013,verified
