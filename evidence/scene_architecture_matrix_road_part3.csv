@@ -1,0 +1,7 @@
+sequence_order,scene_id,scene_title,source_ids,form_label,lock_state,dramatic_function,transition_target,status
+13,SCN-ROAD-013,Moonlight under the sceptre,HWT-0081,SOURCE_DIRECT,DEVELOPMENT,Establish trust in Pāṇḍya order,SCN-ROAD-014,verified
+14,SCN-ROAD-014,Shelter outside the capital,HWT-0082,SOURCE_DIRECT,LOCKED_SOURCE,Provide final protection before city risk,SCN-ROAD-015,verified
+15,SCN-ROAD-015,Kausika recognises the missing man,HWT-0083,SOURCE_DIRECT,LOCKED_SOURCE,Bring Pukār consequences forward,SCN-ROAD-016,verified
+16,SCN-ROAD-016,The letter corrects the song,HWT-0084-HWT-0085,SOURCE_COMPOSITE,LOCKED_SOURCE,Resolve Kāṉal Vari misunderstanding,SCN-ROAD-017,verified
+17,SCN-ROAD-017,Madurai arrives before it is seen,HWT-0086-HWT-0087,MIXED_PERFORMANCE,LOCKED_ADAPTATION,Build capital through sensory systems,SCN-ROAD-018,verified
+18,SCN-ROAD-018,Across the Vaigai to the fortified edge,HWT-0088-HWT-0089,MIXED_PERFORMANCE,LOCKED_SOURCE,Enter institutional drama,SCN-MDU-001,verified
