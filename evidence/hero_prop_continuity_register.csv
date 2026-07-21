@@ -1,0 +1,4 @@
+register_part,prop_range,path,record_count,status
+1,PROP-001--PROP-008,evidence/hero_prop_continuity_register_part1.csv,8,verified_after_fetch
+2,PROP-009--PROP-016,evidence/hero_prop_continuity_register_part2.csv,8,verified_after_fetch
+total,PROP-001--PROP-016,,16,verified_continuous_after_fetch
