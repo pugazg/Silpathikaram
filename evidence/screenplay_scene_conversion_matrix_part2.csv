@@ -1,9 +1,9 @@
 sequence_order,scene_id,scene_title,source_ids,runtime_minutes,screenplay_pages,film_start_minute,film_end_minute,scene_purpose,emotional_turn,character_focus,production_complexity,priority,status
-1,SCN-ROAD-001,The ground refuses confidence,HWT-0061,1.5,1.5,46.0,47.5,Let terrain remove social confidence,The first road steps expose unprepared bodies,Kaṇṇaki;Kōvalaṉ;Kauṇṭi,medium,A,planned
-2,SCN-ROAD-002,Kāviri works around them,HWT-0062,1.5,1.5,47.5,49.0,Place travellers inside agrarian labour,Travel enters a working ecological system,travellers;farm workers;animals,high,B,planned
-3,SCN-ROAD-003,Distance is counted by halts,HWT-0063,1.5,1.5,49.0,50.5,Make duration and bodily cost visible,Progress becomes a sequence of exhaustion and recovery,Kaṇṇaki;Kōvalaṉ;Kauṇṭi,medium,A,planned
-4,SCN-ROAD-004,Teaching on the river island,HWT-0064,1.5,1.5,50.5,52.0,Frame karma without excusing later institutions,The journey acquires ethical and doctrinal depth,Kauṇṭi;travellers;teachers,medium,B,planned
-5,SCN-ROAD-005,The south bank removes shelter,HWT-0065;HWT-0066,1.5,1.5,52.0,53.5,Increase social vulnerability after crossing,The travellers lose another layer of protection,Kaṇṇaki;Kōvalaṉ;Kauṇṭi,high,A,planned
+1,SCN-ROAD-001,The ground refuses confidence,HWT-0061,1.5,1.5,46.0,47.5,Let terrain remove social confidence,The first road steps expose unprepared bodies,Kaṇṇaki;Kōvalaṉ;Kauṇṭi,medium,A,drafted_v1
+2,SCN-ROAD-002,Kāviri works around them,HWT-0062,1.5,1.5,47.5,49.0,Place travellers inside agrarian labour,Travel enters a working ecological system,travellers;farm workers;animals,high,B,drafted_v1
+3,SCN-ROAD-003,Distance is counted by halts,HWT-0063,1.5,1.5,49.0,50.5,Make duration and bodily cost visible,Progress becomes a sequence of exhaustion and recovery,Kaṇṇaki;Kōvalaṉ;Kauṇṭi,medium,A,drafted_v1
+4,SCN-ROAD-004,Teaching on the river island,HWT-0064,1.5,1.5,50.5,52.0,Frame karma without excusing later institutions,The journey acquires ethical and doctrinal depth,Kauṇṭi;travellers;teachers,medium,B,drafted_v1
+5,SCN-ROAD-005,The south bank removes shelter,HWT-0065;HWT-0066,1.5,1.5,52.0,53.5,Increase social vulnerability after crossing,The travellers lose another layer of protection,Kaṇṇaki;Kōvalaṉ;Kauṇṭi,high,A,drafted_v1
 6,SCN-ROAD-006,The road is argued before it is taken,HWT-0067;HWT-0068,2.0,2.0,53.5,55.5,Make route knowledge political and ethical,Competing maps reveal different values,Kauṇṭi;travelling Brahmin;couple,medium,A,planned
 7,SCN-ROAD-007,Pālai is made by season,HWT-0069;HWT-0070,1.5,1.5,55.5,57.0,Make ecology causal and unstable,Familiar land becomes hostile through season,travellers;landscape;animals,high,A,planned
 8,SCN-ROAD-008,The cave route promises knowledge,HWT-0071,1.5,1.5,57.0,58.5,Present a genuine competing sacred route,Wonder offers an alternative to urgent travel,travelling Brahmin;Kauṇṭi;couple,medium,B,planned
