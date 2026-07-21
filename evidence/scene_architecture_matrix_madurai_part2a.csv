@@ -1,0 +1,6 @@
+sequence_order,scene_id,scene_title,source_ids,form_label,lock_state,dramatic_function,transition_target,status
+11,SCN-MDU-011,Grief names royal error,"HWT-0115;HWT-0116",MIXED_PERFORMANCE,LOCKED_SOURCE,Move grief toward public injustice,SCN-MDU-012,verified
+12,SCN-MDU-012,The anklet becomes a public claim,"HWT-0117;HWT-0118",SOURCE_COMPOSITE,LOCKED_SOURCE,Convert private property into civic evidence,SCN-MDU-013,verified
+13,SCN-MDU-013,The crowd leads her to the body,"HWT-0119;HWT-0120",SOURCE_DIRECT,LOCKED_SOURCE,Make institutional failure visible through the body,SCN-MDU-014,verified
+14,SCN-MDU-014,Questions become a decision,"HWT-0121;HWT-0122",MIXED_PERFORMANCE,LOCKED_SOURCE,Transform lament into confrontation,SCN-MDU-015,verified
+15,SCN-MDU-015,The queen dreams the symbols of collapse,HWT-0123,MIXED_PERFORMANCE,DEVELOPMENT,Show palace unease before proof,SCN-MDU-016,verified
