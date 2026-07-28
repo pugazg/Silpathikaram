@@ -6,13 +6,13 @@
 
 The Tamil screenplay currently covers Madurai from city entry through the completed anklet proof and royal collapse:
 
-- Film minutes: `74.0`–`117.0`
-- Scene units: `SCN-MDU-001`–`SCN-MDU-020`
-- Draft files: 11
-- Matrix status: first 20 of 30 rows `drafted_v1`
+- Film minutes: `74.0`–`125.0`
+- Scene units: `SCN-MDU-001`–`SCN-MDU-024`
+- Draft files: 13
+- Matrix status: first 24 of 30 rows `drafted_v1`
 - Previous transition: continuous from `SCN-ROAD-018`
 - Primary interval point: after `SCN-MDU-020`, minute `117.0`
-- Next scene: `SCN-MDU-021`
+- Next scene: `SCN-MDU-025`
 
 | Part | Scene range | Runtime | Path | Status |
 |---|---|---:|---|---|
@@ -27,11 +27,13 @@ The Tamil screenplay currently covers Madurai from city entry through the comple
 | 4A | `SCN-MDU-015`–`SCN-MDU-016` | 3.5 min | `docs/08-screenplay-development/drafts/29_madurai_sequence_part4a_tamil.md` | draft_v1 |
 | 4B | `SCN-MDU-017`–`SCN-MDU-018` | 5.0 min | `docs/08-screenplay-development/drafts/30_madurai_sequence_part4b_tamil.md` | draft_v1 |
 | 4C | `SCN-MDU-019`–`SCN-MDU-020` | 5.0 min | `docs/08-screenplay-development/drafts/31_madurai_sequence_part4c_tamil.md` | draft_v1 |
-| **current total** | `SCN-MDU-001`–`SCN-MDU-020` | **43.0 min** | **11 files** | **continuous_draft_v1** |
+| 5A | `SCN-MDU-021`–`SCN-MDU-022` | 3.5 min | `docs/08-screenplay-development/drafts/32_madurai_sequence_part5a_tamil.md` | draft_v1 |
+| 5B | `SCN-MDU-023`–`SCN-MDU-024` | 4.5 min | `docs/08-screenplay-development/drafts/33_madurai_sequence_part5b_tamil.md` | draft_v1 |
+| **current total** | `SCN-MDU-001`–`SCN-MDU-024` | **51.0 min** | **13 files** | **continuous_draft_v1** |
 
 ## Source coverage
 
-- `HWT-0090`–`HWT-0130`
+- `HWT-0090`–`HWT-0135`
 
 ## Locked dramatic controls
 
@@ -58,7 +60,13 @@ The Tamil screenplay currently covers Madurai from city entry through the comple
 21. The fallen sceptre indicts the governing order, not only one man’s conscience.
 22. The king’s self-indictment is not restitution and does not restore Kōvalaṉ.
 23. The primary interval may occur only after the gem proof and royal collapse at minute `117.0`.
-24. `SCN-MDU-020` hands directly into Kaṇṇaki’s city-level vow and remembered-women sequence.
+24. Remembered women place Kaṇṇaki’s claim within inherited public ethical memory; they do not replace the anklet proof.
+25. The city-level vow follows material proof and does not become uncomplicated revenge.
+26. Three circuits remain spatial, public and embodied; Kaṇṇaki’s injured body continues to limit her movement.
+27. The left-breast act requires source-critical, non-erotic and non-spectacular treatment.
+28. Fire appears only after the completed accusation and under the source’s prior-command framework.
+29. Protected categories are named explicitly before wider ignition: ritual specialists, righteous people, cattle, faithful wives, elders and children.
+30. `SCN-MDU-024` hands directly into selective ignition at `SCN-MDU-025`.
 
 ## Revision gate before Draft V2
 
@@ -72,4 +80,9 @@ Review is required for:
 - king and queen collapse, bodily action and source translation;
 - sceptre, parasol, gate bell and court-symbol continuity;
 - interval rhythm after material proof;
+- remembered-women source sequence and exact Tamil rendering;
+- three-circuit geography, movement grammar and injured-body continuity;
+- left-breast action, performer safety and non-exploitative visual design;
+- fire-deity Brahmin-form reconstruction and source-specific religious identity;
+- protected-category staging and selective-fire zone logic;
 - Tamil dialogue rhythm and register.
