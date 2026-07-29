@@ -1,0 +1,103 @@
+board_id,scene_id,world,source_ids,film_start_minute,film_end_minute,runtime_minutes,scene_title,production_complexity,board_priority,estimated_panels,design_package,continuity_motifs,board_status
+001,SCN-PUK-001,Pukār,HWT-0001,0.0,1.5,1.5,Moral contract,medium,A,10,PD-PUK-01,circulation;water;lamps;anklet,planned_board_v1
+002,SCN-PUK-002,Pukār,HWT-0029;HWT-0033,1.5,4.5,3.0,The city that can be lost,high,A,14,PD-PUK-01,circulation;water;lamps;anklet,planned_board_v1
+003,SCN-PUK-003,Pukār,HWT-0030;HWT-0031;HWT-0032,4.5,9.0,4.5,Two merchant houses make a marriage,high,A,14,PD-PUK-01,circulation;water;lamps;anklet,planned_board_v1
+004,SCN-PUK-004,Pukār,HWT-0034;HWT-0035,9.0,13.0,4.0,A household of their own,medium,A,10,PD-PUK-01,circulation;water;lamps;anklet,planned_board_v1
+005,SCN-PUK-005,Pukār,HWT-0036;HWT-0037,13.0,14.5,1.5,Seven years in the body,medium,A,10,PD-PUK-01,circulation;water;lamps;anklet,planned_board_v1
+006,SCN-PUK-006,Pukār,HWT-0038;HWT-0039;HWT-0040,14.5,16.0,1.5,Building and consecrating the stage,high,B,14,PD-PUK-01,circulation;water;lamps;anklet,planned_board_v1
+007,SCN-PUK-007,Pukār,HWT-0041,16.0,19.0,3.0,Debut reward and garland threshold,high,A,14,PD-PUK-01,circulation;water;lamps;anklet,planned_board_v1
+008,SCN-PUK-008,Pukār,HWT-0042;HWT-0043,19.0,20.5,1.5,Two evenings in one city,medium,A,10,PD-PUK-01,circulation;water;lamps;anklet,planned_board_v1
+009,SCN-PUK-009,Pukār,HWT-0002-HWT-0022,20.5,23.5,3.0,The festival city mobilises,very_high,A,18,PD-PUK-02,circulation;water;lamps;anklet,planned_board_v1
+010,SCN-PUK-010,Pukār,HWT-0023;HWT-0024,23.5,26.5,3.0,Eleven dances and the working costume,very_high,A,18,PD-PUK-02,circulation;water;lamps;anklet,planned_board_v1
+011,SCN-PUK-011,Pukār,HWT-0025;HWT-0026;HWT-0027;HWT-0044,26.5,28.0,1.5,Through the lit city to the sea,high,B,14,PD-PUK-02,circulation;water;lamps;anklet,planned_board_v1
+012,SCN-PUK-012,Pukār,HWT-0028;HWT-0045;HWT-0046;HWT-0047,28.0,31.0,3.0,The song that begins the break,medium,A,10,PD-PUK-02,circulation;water;lamps;anklet,planned_board_v1
+013,SCN-PUK-013,Pukār,HWT-0048,31.0,32.5,1.5,Mādhavi answers in the same language,medium,A,10,PD-PUK-02,circulation;water;lamps;anklet,planned_board_v1
+014,SCN-PUK-014,Pukār,HWT-0049,32.5,33.5,1.0,He leaves the performance unfinished,low,A,8,PD-PUK-02,circulation;water;lamps;anklet,planned_board_v1
+015,SCN-PUK-015,Pukār,HWT-0050;HWT-0051,33.5,34.5,1.0,Summer after the rupture,medium,B,10,PD-PUK-02,circulation;water;lamps;anklet,planned_board_v1
+016,SCN-PUK-016,Pukār,HWT-0052;HWT-0053,34.5,36.5,2.0,The flower-letter,medium,A,10,PD-PUK-02,circulation;water;lamps;anklet,planned_board_v1
+017,SCN-PUK-017,Pukār,HWT-0054;HWT-0055,36.5,37.5,1.0,Sacred plurality and the warning dream,medium,B,10,PD-PUK-03,circulation;water;lamps;anklet,planned_board_v1
+018,SCN-PUK-018,Pukār,HWT-0056,37.5,38.5,1.0,Kaṇṇaki refuses the proposed remedy,low,A,8,PD-PUK-03,circulation;water;lamps;anklet,planned_board_v1
+019,SCN-PUK-019,Pukār,HWT-0057,38.5,40.0,1.5,Return without restoration,low,A,8,PD-PUK-03,circulation;water;lamps;anklet,planned_board_v1
+020,SCN-PUK-020,Pukār,HWT-0058,40.0,42.0,2.0,The anklet becomes capital,medium,A,10,PD-PUK-03,circulation;water;lamps;anklet,planned_board_v1
+021,SCN-PUK-021,Pukār,HWT-0059,42.0,43.0,1.0,Leaving before the city wakes,medium,A,10,PD-PUK-03,circulation;water;lamps;anklet,planned_board_v1
+022,SCN-PUK-022,Pukār,HWT-0059;HWT-0060,43.0,44.0,1.0,Crossing the sacred and civic edge,high,B,14,PD-PUK-03,circulation;water;lamps;anklet,planned_board_v1
+023,SCN-PUK-023,Pukār,HWT-0060,44.0,45.0,1.0,Kauṇṭi assesses the travellers,low,A,8,PD-PUK-03,circulation;water;lamps;anklet,planned_board_v1
+024,SCN-PUK-024,Pukār,HWT-0059;HWT-0060;HWT-0061,45.0,46.0,1.0,Pukār becomes memory,medium,A,10,PD-PUK-03,circulation;water;lamps;anklet,planned_board_v1
+025,SCN-ROAD-001,Road,HWT-0061,46.0,47.5,1.5,The ground refuses confidence,medium,A,10,PD-ROAD-01,feet;water;loads;thresholds,planned_board_v1
+026,SCN-ROAD-002,Road,HWT-0062,47.5,49.0,1.5,Kāviri works around them,high,B,14,PD-ROAD-01,feet;water;loads;thresholds,planned_board_v1
+027,SCN-ROAD-003,Road,HWT-0063,49.0,50.5,1.5,Distance is counted by halts,medium,A,10,PD-ROAD-01,feet;water;loads;thresholds,planned_board_v1
+028,SCN-ROAD-004,Road,HWT-0064,50.5,52.0,1.5,Teaching on the river island,medium,B,10,PD-ROAD-01,feet;water;loads;thresholds,planned_board_v1
+029,SCN-ROAD-005,Road,HWT-0065;HWT-0066,52.0,53.5,1.5,The south bank removes shelter,high,A,14,PD-ROAD-01,feet;water;loads;thresholds,planned_board_v1
+030,SCN-ROAD-006,Road,HWT-0067;HWT-0068,53.5,55.5,2.0,The road is argued before it is taken,medium,A,10,PD-ROAD-01,feet;water;loads;thresholds,planned_board_v1
+031,SCN-ROAD-007,Road,HWT-0069;HWT-0070,55.5,57.0,1.5,Pālai is made by season,high,A,14,PD-ROAD-02,feet;water;loads;thresholds,planned_board_v1
+032,SCN-ROAD-008,Road,HWT-0071,57.0,58.5,1.5,The cave route promises knowledge,medium,B,10,PD-ROAD-02,feet;water;loads;thresholds,planned_board_v1
+033,SCN-ROAD-009,Road,HWT-0072;HWT-0073,58.5,60.0,1.5,Kauṇṭi chooses the direct road,low,A,8,PD-ROAD-02,feet;water;loads;thresholds,planned_board_v1
+034,SCN-ROAD-010,Road,HWT-0074,60.0,61.5,1.5,The forest speaks in a familiar face,high,B,14,PD-ROAD-02,feet;water;loads;thresholds,planned_board_v1
+035,SCN-ROAD-011,Road,HWT-0075;HWT-0076,61.5,63.5,2.0,Heat drives them to Aiyai's enclosure,high,A,14,PD-ROAD-02,feet;water;loads;thresholds,planned_board_v1
+036,SCN-ROAD-012,Road,HWT-0077;HWT-0078;HWT-0079;HWT-0080,63.5,65.5,2.0,Sālini names a future no one understands,very_high,A,18,PD-ROAD-02,feet;water;loads;thresholds,planned_board_v1
+037,SCN-ROAD-013,Road,HWT-0081,65.5,66.5,1.0,Moonlight under the sceptre,medium,B,10,PD-ROAD-03,feet;water;loads;thresholds,planned_board_v1
+038,SCN-ROAD-014,Road,HWT-0082,66.5,68.0,1.5,Shelter outside the capital,medium,B,10,PD-ROAD-03,feet;water;loads;thresholds,planned_board_v1
+039,SCN-ROAD-015,Road,HWT-0083,68.0,69.5,1.5,Kausika recognises the missing man,low,A,8,PD-ROAD-03,feet;water;loads;thresholds,planned_board_v1
+040,SCN-ROAD-016,Road,HWT-0084-HWT-0085,69.5,71.0,1.5,The letter corrects the song,low,A,8,PD-ROAD-03,feet;water;loads;thresholds,planned_board_v1
+041,SCN-ROAD-017,Road,HWT-0086-HWT-0087,71.0,72.5,1.5,Madurai arrives before it is seen,high,A,14,PD-ROAD-03,feet;water;loads;thresholds,planned_board_v1
+042,SCN-ROAD-018,Road,HWT-0088-HWT-0089,72.5,74.0,1.5,Across the Vaigai to the fortified edge,high,A,14,PD-ROAD-03,feet;water;loads;thresholds,planned_board_v1
+043,SCN-MDU-001,Madurai,HWT-0090;HWT-0091;HWT-0092;HWT-0093,74.0,75.5,1.5,The capital wakes behind its walls,very_high,A,18,PD-MDU-01,gates;anklet;evidence;fire,planned_board_v1
+044,SCN-MDU-002,Madurai,HWT-0094;HWT-0095;HWT-0096;HWT-0097,75.5,77.5,2.0,"River, market and performance city",very_high,A,18,PD-MDU-01,gates;anklet;evidence;fire,planned_board_v1
+045,SCN-MDU-003,Madurai,HWT-0098;HWT-0099,77.5,79.5,2.0,Care passes into Mādhari's house,medium,A,10,PD-MDU-01,gates;anklet;evidence;fire,planned_board_v1
+046,SCN-MDU-004,Madurai,HWT-0108,79.5,81.0,1.5,The cattle register disorder,high,B,14,PD-MDU-01,gates;anklet;evidence;fire,planned_board_v1
+047,SCN-MDU-005,Madurai,HWT-0109;HWT-0110;HWT-0111;HWT-0112;HWT-0113,81.0,83.5,2.5,Kuravai as communal repair,very_high,A,18,PD-MDU-01,gates;anklet;evidence;fire,planned_board_v1
+048,SCN-MDU-006,Madurai,HWT-0100,83.5,85.5,2.0,Kōvalaṉ carries the surviving capital alone,high,A,14,PD-MDU-01,gates;anklet;evidence;fire,planned_board_v1
+049,SCN-MDU-007,Madurai,HWT-0101,85.5,87.5,2.0,The goldsmith converts expertise into deception,medium,A,10,PD-MDU-01,gates;anklet;evidence;fire,planned_board_v1
+050,SCN-MDU-008,Madurai,HWT-0102,87.5,89.5,2.0,The order outruns inquiry,high,A,14,PD-MDU-01,gates;anklet;evidence;fire,planned_board_v1
+051,SCN-MDU-009,Madurai,HWT-0102,89.5,91.5,2.0,Kōvalaṉ is killed as a classified body,high,A,14,PD-MDU-01,gates;anklet;evidence;fire,planned_board_v1
+052,SCN-MDU-010,Madurai,HWT-0114,91.5,93.0,1.5,The city cry breaks the dance,medium,A,10,PD-MDU-01,gates;anklet;evidence;fire,planned_board_v1
+053,SCN-MDU-011,Madurai,HWT-0115;HWT-0116,93.0,96.0,3.0,Grief names royal error,medium,A,10,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
+054,SCN-MDU-012,Madurai,HWT-0117;HWT-0118,96.0,98.5,2.5,The anklet becomes a public claim,high,A,14,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
+055,SCN-MDU-013,Madurai,HWT-0119;HWT-0120,98.5,101.0,2.5,The crowd leads her to the body,medium,A,10,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
+056,SCN-MDU-014,Madurai,HWT-0121;HWT-0122,101.0,103.5,2.5,Questions become a decision,low,A,8,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
+057,SCN-MDU-015,Madurai,HWT-0123,103.5,105.0,1.5,The queen dreams the symbols of collapse,high,B,14,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
+058,SCN-MDU-016,Madurai,HWT-0124;HWT-0125,105.0,107.0,2.0,"The gate receives a claimant, not a petitioner",high,A,14,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
+059,SCN-MDU-017,Madurai,HWT-0126,107.0,109.5,2.5,Kaṇṇaki establishes standing,medium,A,10,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
+060,SCN-MDU-018,Madurai,HWT-0127,109.5,112.0,2.5,Gems against pearls,medium,A,10,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
+061,SCN-MDU-019,Madurai,HWT-0128,112.0,114.5,2.5,The object completes the argument,high,A,14,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
+062,SCN-MDU-020,Madurai,HWT-0129;HWT-0130,114.5,117.0,2.5,The sceptre indicts itself,medium,A,10,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
+063,SCN-MDU-021,Madurai,HWT-0131,117.0,118.5,1.5,Kaṇṇaki summons remembered women,high,B,14,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
+064,SCN-MDU-022,Madurai,HWT-0132,118.5,120.5,2.0,The vow includes ruler and city,high,A,14,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
+065,SCN-MDU-023,Madurai,HWT-0133,120.5,123.0,2.5,Three circuits and the embodied accusation,very_high,A,18,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
+066,SCN-MDU-024,Madurai,HWT-0134;HWT-0135,123.0,125.0,2.0,Fire appears under prior command,very_high,A,18,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
+067,SCN-MDU-025,Madurai,HWT-0136,125.0,127.5,2.5,Fire chooses rather than merely spreads,very_high,A,18,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
+068,SCN-MDU-026,Madurai,HWT-0137;HWT-0138;HWT-0139;HWT-0140;HWT-0141;HWT-0142,127.5,131.0,3.5,The city loses its protectors,very_high,A,18,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
+069,SCN-MDU-027,Madurai,HWT-0143;HWT-0144,131.0,133.0,2.0,Madurai witnesses its transformation,high,B,14,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
+070,SCN-MDU-028,Madurai,HWT-0145;HWT-0146,133.0,135.0,2.0,Explanation follows proof,medium,A,10,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
+071,SCN-MDU-029,Madurai,HWT-0147;HWT-0148,135.0,136.5,1.5,Fourteen days beyond the city,high,B,14,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
+072,SCN-MDU-030,Madurai,HWT-0149;HWT-0150;HWT-0151;HWT-0152,136.5,138.0,1.5,Judgement becomes transferable memory,high,A,14,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
+073,SCN-VAN-001,Vañci,HWT-0153,138.0,139.5,1.5,Kaṇṇaki names the catastrophe,medium,A,10,PD-VAN-01,witness;stone;water;institution,planned_board_v1
+074,SCN-VAN-002,Vañci,HWT-0154;HWT-0155,139.5,141.5,2.0,A small settlement receives a deity,high,A,14,PD-VAN-01,witness;stone;water;institution,planned_board_v1
+075,SCN-VAN-003,Vañci,HWT-0156,141.5,142.5,1.0,Mountain water holds the community,high,B,14,PD-VAN-01,witness;stone;water;institution,planned_board_v1
+076,SCN-VAN-004,Vañci,HWT-0157,142.5,143.5,1.0,The spear links distinct sacred landscapes,high,B,14,PD-VAN-01,witness;stone;water;institution,planned_board_v1
+077,SCN-VAN-005,Vañci,HWT-0158,143.5,144.5,1.0,Ritual efficacy is debated inside the song,medium,B,10,PD-VAN-01,witness;stone;water;institution,planned_board_v1
+078,SCN-VAN-006,Vañci,HWT-0159,144.5,146.0,1.5,The hill song judges Madurai,high,A,14,PD-VAN-01,witness;stone;water;institution,planned_board_v1
+079,SCN-VAN-007,Vañci,HWT-0160;HWT-0161,146.0,147.5,1.5,The court enters mountain country,very_high,A,18,PD-VAN-01,witness;stone;water;institution,planned_board_v1
+080,SCN-VAN-008,Vañci,HWT-0162;HWT-0163,147.5,148.5,1.0,Tribute carries ecological knowledge,very_high,A,18,PD-VAN-01,witness;stone;water;institution,planned_board_v1
+081,SCN-VAN-009,Vañci,HWT-0164,148.5,150.0,1.5,The Kuravar report what they saw,medium,A,10,PD-VAN-01,witness;stone;water;institution,planned_board_v1
+082,SCN-VAN-010,Vañci,HWT-0165,150.0,152.0,2.0,Sāttanār connects witness to history,medium,A,10,PD-VAN-01,witness;stone;water;institution,planned_board_v1
+083,SCN-VAN-011,Vañci,HWT-0166,152.0,153.0,1.0,The ruler hears the burden of justice,low,A,8,PD-VAN-02,witness;stone;water;institution,planned_board_v1
+084,SCN-VAN-012,Vañci,HWT-0167,153.0,154.0,1.0,Pattini becomes a royal responsibility,low,A,8,PD-VAN-02,witness;stone;water;institution,planned_board_v1
+085,SCN-VAN-013,Vañci,HWT-0168,154.0,155.0,1.0,"Stone, place and legitimacy are debated",medium,B,10,PD-VAN-02,witness;stone;water;institution,planned_board_v1
+086,SCN-VAN-014,Vañci,HWT-0169;HWT-0170,155.0,156.5,1.5,A memorial decision becomes an expedition,high,A,14,PD-VAN-02,witness;stone;water;institution,planned_board_v1
+087,SCN-VAN-015,Vañci,HWT-0171;HWT-0172;HWT-0173,156.5,157.5,1.0,The state mobilises,very_high,A,18,PD-VAN-02,witness;stone;water;institution,planned_board_v1
+088,SCN-VAN-016,Vañci,HWT-0174;HWT-0175,157.5,158.5,1.0,Departure becomes public performance,very_high,A,18,PD-VAN-02,witness;stone;water;institution,planned_board_v1
+089,SCN-VAN-017,Vañci,HWT-0176;HWT-0177,158.5,160.0,1.5,The army crosses landscapes,very_high,A,18,PD-VAN-02,witness;stone;water;institution,planned_board_v1
+090,SCN-VAN-018,Vañci,HWT-0178;HWT-0179,160.0,161.0,1.0,Allies and administration sustain the expedition,high,B,14,PD-VAN-02,witness;stone;water;institution,planned_board_v1
+091,SCN-VAN-019,Vañci,HWT-0180;HWT-0181,161.0,163.5,2.5,Northern coalition and battle,very_high,A,18,PD-VAN-02,witness;stone;water;institution,planned_board_v1
+092,SCN-VAN-020,Vañci,HWT-0182,163.5,165.0,1.5,The stone is obtained,high,A,14,PD-VAN-02,witness;stone;water;institution,planned_board_v1
+093,SCN-VAN-021,Vañci,HWT-0183,165.0,166.0,1.0,Victory places weight upon defeated crowns,high,B,14,PD-VAN-03,witness;stone;water;institution,planned_board_v1
+094,SCN-VAN-022,Vañci,HWT-0184,166.0,167.0,1.0,The river consecrates the stone,very_high,A,18,PD-VAN-03,witness;stone;water;institution,planned_board_v1
+095,SCN-VAN-023,Vañci,HWT-0185;HWT-0186,167.0,168.5,1.5,Victory remembers bodies,very_high,A,18,PD-VAN-03,witness;stone;water;institution,planned_board_v1
+096,SCN-VAN-024,Vañci,HWT-0187,168.5,170.5,2.0,Māṭalan reconnects the epic,medium,A,10,PD-VAN-03,witness;stone;water;institution,planned_board_v1
+097,SCN-VAN-025,Vañci,HWT-0188;HWT-0189,170.5,172.0,1.5,Return begins with release,high,A,14,PD-VAN-03,witness;stone;water;institution,planned_board_v1
+098,SCN-VAN-026,Vañci,HWT-0190,172.0,173.5,1.5,The king enters Vañci,very_high,A,18,PD-VAN-03,witness;stone;water;institution,planned_board_v1
+099,SCN-VAN-027,Vañci,HWT-0191,173.5,174.5,1.0,Bodies remember war,medium,A,10,PD-VAN-03,witness;stone;water;institution,planned_board_v1
+100,SCN-VAN-028,Vañci,HWT-0192;HWT-0193;HWT-0194,174.5,176.5,2.0,A shrine becomes an institution,very_high,A,18,PD-VAN-03,witness;stone;water;institution,planned_board_v1
+101,SCN-VAN-029,Vañci,HWT-0195;HWT-0196,176.5,178.5,2.0,Memory bearers gather,high,A,14,PD-VAN-03,witness;stone;water;institution,planned_board_v1
+102,SCN-VAN-030,Vañci,HWT-0197,178.5,180.0,1.5,The epic closes as ethical instruction,medium,A,10,PD-VAN-03,witness;stone;water;institution,planned_board_v1
