@@ -1,0 +1,3 @@
+register,scene_range,record_count,runtime_minutes,path,status
+storyboard_master,SCN-PUK-001--SCN-VAN-030,102,180.0,evidence/storyboard_scene_register.csv,planned_board_v1_verified
+key_sequence_blueprints,SB-KEY-001--SB-KEY-006,6,,docs/09-storyboards/01_key_sequence_storyboard_blueprints.md,development
