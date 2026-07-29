@@ -2,17 +2,17 @@
 
 ## Movement status
 
-`MADURAI_DRAFT_V1_IN_PROGRESS`
+`MADURAI_DRAFT_V1_COMPLETE`
 
-The Tamil screenplay currently covers Madurai from city entry through the completed anklet proof and royal collapse:
+The Tamil screenplay currently covers Madurai from city entry through selective fire, Madurāpati, the fourteen-day passage and the Vañci handoff:
 
-- Film minutes: `74.0`–`125.0`
-- Scene units: `SCN-MDU-001`–`SCN-MDU-024`
-- Draft files: 13
-- Matrix status: first 24 of 30 rows `drafted_v1`
+- Film minutes: `74.0`–`138.0`
+- Scene units: `SCN-MDU-001`–`SCN-MDU-030`
+- Draft files: 16
+- Matrix status: all 30 of 30 rows `drafted_v1`
 - Previous transition: continuous from `SCN-ROAD-018`
 - Primary interval point: after `SCN-MDU-020`, minute `117.0`
-- Next scene: `SCN-MDU-025`
+- Next transition: `SCN-VAN-001`
 
 | Part | Scene range | Runtime | Path | Status |
 |---|---|---:|---|---|
@@ -29,11 +29,14 @@ The Tamil screenplay currently covers Madurai from city entry through the comple
 | 4C | `SCN-MDU-019`–`SCN-MDU-020` | 5.0 min | `docs/08-screenplay-development/drafts/31_madurai_sequence_part4c_tamil.md` | draft_v1 |
 | 5A | `SCN-MDU-021`–`SCN-MDU-022` | 3.5 min | `docs/08-screenplay-development/drafts/32_madurai_sequence_part5a_tamil.md` | draft_v1 |
 | 5B | `SCN-MDU-023`–`SCN-MDU-024` | 4.5 min | `docs/08-screenplay-development/drafts/33_madurai_sequence_part5b_tamil.md` | draft_v1 |
-| **current total** | `SCN-MDU-001`–`SCN-MDU-024` | **51.0 min** | **13 files** | **continuous_draft_v1** |
+| 6A | `SCN-MDU-025` | 2.5 min | `docs/08-screenplay-development/drafts/34_madurai_sequence_part6a_tamil.md` | draft_v1 |
+| 6B | `SCN-MDU-026`–`SCN-MDU-028` | 7.5 min | `docs/08-screenplay-development/drafts/35_madurai_sequence_part6b_tamil.md` | draft_v1 |
+| 6C | `SCN-MDU-029`–`SCN-MDU-030` | 3.0 min | `docs/08-screenplay-development/drafts/36_madurai_sequence_part6c_tamil.md` | draft_v1 |
+| **current total** | `SCN-MDU-001`–`SCN-MDU-030` | **64.0 min** | **16 files** | **draft_v1_complete** |
 
 ## Source coverage
 
-- `HWT-0090`–`HWT-0135`
+- `HWT-0090`–`HWT-0152`
 
 ## Locked dramatic controls
 
@@ -66,7 +69,12 @@ The Tamil screenplay currently covers Madurai from city entry through the comple
 27. The left-breast act requires source-critical, non-erotic and non-spectacular treatment.
 28. Fire appears only after the completed accusation and under the source’s prior-command framework.
 29. Protected categories are named explicitly before wider ignition: ritual specialists, righteous people, cattle, faithful wives, elders and children.
-30. `SCN-MDU-024` hands directly into selective ignition at `SCN-MDU-025`.
+30. Selective fire remains bounded but terrifying; protected people may still suffer displacement and loss.
+31. Guardian withdrawal shows systemic collapse rather than isolated fire spectacle.
+32. Madurāpati arrives after human failure and cannot absolve the goldsmith, officers or king.
+33. Wider causal explanation follows proof and provides context without restitution.
+34. Kaṇṇaki’s fourteen-day transition retains bodily duration and avoids instant polished divinity.
+35. Hill witnesses receive her story before the Cēra state; `SCN-MDU-030` hands directly to `SCN-VAN-001`.
 
 ## Revision gate before Draft V2
 
