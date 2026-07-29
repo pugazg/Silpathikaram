@@ -103,6 +103,19 @@ The first source-governed performance layer covers the four characters who gener
 
 Each dossier separates direct textual support from controlled interpretation and explicitly records forbidden simplifications, locked adaptation decisions and open questions.
 
+## Production design and storyboards
+
+The completed 102-scene screenplay is now connected to department-level production and storyboard controls:
+
+- [Scene production-package method](docs/06-production-design/08_scene_production_package_method.md) — approval rules for sets, props, costume, crowds, effects, ritual and safety
+- [Twelve production-design sequence packages](evidence/production_design_sequence_packages.csv) — three packages for each of Pukār, Road, Madurai and Vañci
+- [Storyboard method](docs/09-storyboards/00_storyboard_method.md) — panel fields, evidence order and world-specific board grammar
+- [102-scene storyboard register](evidence/storyboard_scene_register.csv) — board priority, estimated panels, design package and continuity motifs for every scene
+- [Key-sequence storyboard blueprints](docs/09-storyboards/01_key_sequence_storyboard_blueprints.md) — opening, Mādhavi’s debut, Kāṉal Vari, anklet proof, selective fire and Vañci ending
+- [Storyboard register index](evidence/storyboard_register_index.csv) — machine-readable coverage control
+
+These are development controls. Precise historical architecture, costumes, rituals, animals, weapons, body effects, fire, stone work and shrine design remain subject to the recorded research and safety gates.
+
 ## Source-completeness note for *Silambō Silambu!*
 
 The supplied Project Madurai e-text breaks off during Chapter 17 and resumes at Chapter 20 under an embedded Part 2 header. The remainder of Chapter 17 and the whole of Chapters 18–19 are absent from that source. The translation marks these omissions explicitly and does not invent missing text. The prose of Chapter 26 is present, although its heading is absent in the body; the heading has been restored from the source table of contents.
