@@ -113,6 +113,11 @@ The completed 102-scene screenplay is now connected to department-level producti
 - [102-scene storyboard register](evidence/storyboard_scene_register.csv) — board priority, estimated panels, design package and continuity motifs for every scene
 - [Key-sequence storyboard blueprints](docs/09-storyboards/01_key_sequence_storyboard_blueprints.md) — opening, Mādhavi’s debut, Kāṉal Vari, anklet proof, selective fire and Vañci ending
 - [Storyboard register index](evidence/storyboard_register_index.csv) — machine-readable coverage control
+- [Visual reference-board manifest](docs/06-production-design/09_visual_reference_board_manifest.md) — four AI-assisted concept boards with provenance, checksums and research limits
+- [Critical visual research decisions](docs/06-production-design/10_critical_visual_research_decisions.md) — anklet, court, circuits, selective fire, costume and sacred-image controls
+- [Madurai illustrated pilot and animatic](docs/09-storyboards/02_madurai_storyboard_pilot_and_animatic.md) — 25 panels covering SCN-MDU-017–026
+- [Priority storyboard packages](docs/09-storyboards/03_priority_sequence_storyboard_packages.md) — Mādhavi, Kāṉal Vari, festival, Road ritual, expedition and Pattini ending
+- [Madurai Draft V2](docs/08-screenplay-development/drafts-v2/01_madurai_court_fire_v2_tamil.md) — Tamil visual-blocking revision driven by the pilot
 
 These are development controls. Precise historical architecture, costumes, rituals, animals, weapons, body effects, fire, stone work and shrine design remain subject to the recorded research and safety gates.
 
