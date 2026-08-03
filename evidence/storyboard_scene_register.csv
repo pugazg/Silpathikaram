@@ -57,16 +57,16 @@ board_id,scene_id,world,source_ids,film_start_minute,film_end_minute,runtime_min
 056,SCN-MDU-014,Madurai,HWT-0121;HWT-0122,101.0,103.5,2.5,Questions become a decision,low,A,8,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
 057,SCN-MDU-015,Madurai,HWT-0123,103.5,105.0,1.5,The queen dreams the symbols of collapse,high,B,14,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
 058,SCN-MDU-016,Madurai,HWT-0124;HWT-0125,105.0,107.0,2.0,"The gate receives a claimant, not a petitioner",high,A,14,PD-MDU-02,gates;anklet;evidence;fire,planned_board_v1
-059,SCN-MDU-017,Madurai,HWT-0126,107.0,109.5,2.5,Kaṇṇaki establishes standing,medium,A,10,PD-MDU-02,gates;anklet;evidence;fire,illustrated_pilot_v1
-060,SCN-MDU-018,Madurai,HWT-0127,109.5,112.0,2.5,Gems against pearls,medium,A,10,PD-MDU-02,gates;anklet;evidence;fire,illustrated_pilot_v1
-061,SCN-MDU-019,Madurai,HWT-0128,112.0,114.5,2.5,The object completes the argument,high,A,14,PD-MDU-02,gates;anklet;evidence;fire,illustrated_pilot_v1
-062,SCN-MDU-020,Madurai,HWT-0129;HWT-0130,114.5,117.0,2.5,The sceptre indicts itself,medium,A,10,PD-MDU-02,gates;anklet;evidence;fire,illustrated_pilot_v1
-063,SCN-MDU-021,Madurai,HWT-0131,117.0,118.5,1.5,Kaṇṇaki summons remembered women,high,B,14,PD-MDU-03,gates;anklet;evidence;fire,illustrated_pilot_v1
-064,SCN-MDU-022,Madurai,HWT-0132,118.5,120.5,2.0,The vow includes ruler and city,high,A,14,PD-MDU-03,gates;anklet;evidence;fire,illustrated_pilot_v1
-065,SCN-MDU-023,Madurai,HWT-0133,120.5,123.0,2.5,Three circuits and the embodied accusation,very_high,A,18,PD-MDU-03,gates;anklet;evidence;fire,illustrated_pilot_v1
-066,SCN-MDU-024,Madurai,HWT-0134;HWT-0135,123.0,125.0,2.0,Fire appears under prior command,very_high,A,18,PD-MDU-03,gates;anklet;evidence;fire,illustrated_pilot_v1
-067,SCN-MDU-025,Madurai,HWT-0136,125.0,127.5,2.5,Fire chooses rather than merely spreads,very_high,A,18,PD-MDU-03,gates;anklet;evidence;fire,illustrated_pilot_v1
-068,SCN-MDU-026,Madurai,HWT-0137;HWT-0138;HWT-0139;HWT-0140;HWT-0141;HWT-0142,127.5,131.0,3.5,The city loses its protectors,very_high,A,18,PD-MDU-03,gates;anklet;evidence;fire,illustrated_pilot_v1
+059,SCN-MDU-017,Madurai,HWT-0126,107.0,109.5,2.5,Kaṇṇaki establishes standing,medium,A,10,PD-MDU-02,gates;anklet;evidence;fire,locked_storyboard_v2
+060,SCN-MDU-018,Madurai,HWT-0127,109.5,112.0,2.5,Gems against pearls,medium,A,10,PD-MDU-02,gates;anklet;evidence;fire,locked_storyboard_v2
+061,SCN-MDU-019,Madurai,HWT-0128,112.0,114.5,2.5,The object completes the argument,high,A,14,PD-MDU-02,gates;anklet;evidence;fire,locked_storyboard_v2
+062,SCN-MDU-020,Madurai,HWT-0129;HWT-0130,114.5,117.0,2.5,The sceptre indicts itself,medium,A,10,PD-MDU-02,gates;anklet;evidence;fire,locked_storyboard_v2
+063,SCN-MDU-021,Madurai,HWT-0131,117.0,118.5,1.5,Kaṇṇaki summons remembered women,high,B,14,PD-MDU-03,gates;anklet;evidence;fire,locked_storyboard_v2
+064,SCN-MDU-022,Madurai,HWT-0132,118.5,120.5,2.0,The vow includes ruler and city,high,A,14,PD-MDU-03,gates;anklet;evidence;fire,locked_storyboard_v2
+065,SCN-MDU-023,Madurai,HWT-0133,120.5,123.0,2.5,Three circuits and the embodied accusation,very_high,A,18,PD-MDU-03,gates;anklet;evidence;fire,locked_storyboard_v2
+066,SCN-MDU-024,Madurai,HWT-0134;HWT-0135,123.0,125.0,2.0,Fire appears under prior command,very_high,A,18,PD-MDU-03,gates;anklet;evidence;fire,locked_storyboard_v2
+067,SCN-MDU-025,Madurai,HWT-0136,125.0,127.5,2.5,Fire chooses rather than merely spreads,very_high,A,18,PD-MDU-03,gates;anklet;evidence;fire,locked_storyboard_v2
+068,SCN-MDU-026,Madurai,HWT-0137;HWT-0138;HWT-0139;HWT-0140;HWT-0141;HWT-0142,127.5,131.0,3.5,The city loses its protectors,very_high,A,18,PD-MDU-03,gates;anklet;evidence;fire,locked_storyboard_v2
 069,SCN-MDU-027,Madurai,HWT-0143;HWT-0144,131.0,133.0,2.0,Madurai witnesses its transformation,high,B,14,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
 070,SCN-MDU-028,Madurai,HWT-0145;HWT-0146,133.0,135.0,2.0,Explanation follows proof,medium,A,10,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
 071,SCN-MDU-029,Madurai,HWT-0147;HWT-0148,135.0,136.5,1.5,Fourteen days beyond the city,high,B,14,PD-MDU-03,gates;anklet;evidence;fire,planned_board_v1
