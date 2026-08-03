@@ -116,6 +116,8 @@ The completed 102-scene screenplay is now connected to department-level producti
 - [Visual reference-board manifest](docs/06-production-design/09_visual_reference_board_manifest.md) — four AI-assisted concept boards with provenance, checksums and research limits
 - [Critical visual research decisions](docs/06-production-design/10_critical_visual_research_decisions.md) — anklet, court, circuits, selective fire, costume and sacred-image controls
 - [Madurai illustrated pilot and animatic](docs/09-storyboards/02_madurai_storyboard_pilot_and_animatic.md) — 25 panels covering SCN-MDU-017–026
+- [Madurai Storyboard V2 lock report](docs/09-storyboards/04_madurai_storyboard_v2_lock_report.md) — historically restrained court, circuits and selective-fire boards
+- [Playable Madurai animatic V1](docs/09-storyboards/05_madurai_animatic_v1_manifest.md) — 24-minute 1080p timing prototype with temporary Tamil voice and sound cues
 - [Priority storyboard packages](docs/09-storyboards/03_priority_sequence_storyboard_packages.md) — Mādhavi, Kāṉal Vari, festival, Road ritual, expedition and Pattini ending
 - [Madurai Draft V2](docs/08-screenplay-development/drafts-v2/01_madurai_court_fire_v2_tamil.md) — Tamil visual-blocking revision driven by the pilot
 
