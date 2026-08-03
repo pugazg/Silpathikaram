@@ -1,11 +1,13 @@
 # Madurai Court and Fire Storyboard Pilot
 
-Status: `ILLUSTRATED_CONCEPT_V1`
+Status: `SUPERSEDED_BY_LOCKED_STORYBOARD_V2`
 
 Coverage: `SCN-MDU-017`–`SCN-MDU-026`  
 Source coverage: `HWT-0126`–`HWT-0142`  
 Film time: minute `107.0`–`131.0`  
 Panels: 25 across five illustrated sheets
+
+V1 has been retained as the developmental baseline. The corrected boards and playable timing prototype are documented in `04_madurai_storyboard_v2_lock_report.md` and `05_madurai_animatic_v1_manifest.md`.
 
 ## Purpose
 
