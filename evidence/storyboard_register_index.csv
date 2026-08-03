@@ -1,8 +1,9 @@
 register,scene_range,record_count,runtime_minutes,path,status
-storyboard_master,SCN-PUK-001--SCN-VAN-030,102,180.0,evidence/storyboard_scene_register.csv,mixed_planned_package_and_illustrated_v1_verified
+storyboard_master,SCN-PUK-001--SCN-VAN-030,102,180.0,evidence/storyboard_scene_register.csv,mixed_planned_package_and_locked_v2_verified
 key_sequence_blueprints,SB-KEY-001--SB-KEY-006,6,,docs/09-storyboards/01_key_sequence_storyboard_blueprints.md,development
 priority_sequence_packages,SCN-PUK-005--SCN-VAN-030,6_packages,,docs/09-storyboards/03_priority_sequence_storyboard_packages.md,board_package_v1
-madurai_illustrated_pilot,SCN-MDU-017--SCN-MDU-026,25,24.0,evidence/madurai_storyboard_pilot_panels.csv,illustrated_concept_v1
+madurai_locked_storyboard_v2,SCN-MDU-017--SCN-MDU-026,25,24.0,evidence/madurai_storyboard_pilot_panels.csv,locked_storyboard_v2
 madurai_animatic_plan,SCN-MDU-017--SCN-MDU-026,25,24.0,docs/09-storyboards/02_madurai_storyboard_pilot_and_animatic.md,timed_plan_v1
+madurai_playable_animatic,SCN-MDU-017--SCN-MDU-026,25,24.0,docs/09-storyboards/05_madurai_animatic_v1_manifest.md,playable_timing_prototype_v1
 visual_world_boards,PUK--ROAD--MDU--VAN,4,,docs/06-production-design/09_visual_reference_board_manifest.md,concept_v1_research_hold
 screenplay_visual_revision,SCN-MDU-017--SCN-MDU-026,10,24.0,docs/08-screenplay-development/drafts-v2/01_madurai_court_fire_v2_tamil.md,draft_v2_visual_blocking
