@@ -121,6 +121,8 @@ The completed 102-scene screenplay is now connected to department-level producti
 - [Mādhavi storyboard panel register](evidence/madhavi_debut_storyboard_panels.csv) — panel timing, source, action and continuity controls
 - [Kāṉal Vari illustrated storyboard V1](docs/09-storyboards/07_kanal_vari_storyboard_v1.md) — ten panels preserving artistic ambiguity and unilateral misreading across SCN-PUK-012–014
 - [Kāṉal Vari panel register](evidence/kanal_vari_storyboard_panels.csv) — 5.5-minute timing, source and interpretive controls
+- [Indra festival and night-route storyboard V1](docs/09-storyboards/08_indra_festival_night_route_storyboard_v1.md) — civic mobilisation, working costume and profession-lit movement across SCN-PUK-009–011
+- [Indra festival panel register](evidence/indra_festival_storyboard_panels.csv) — ten panels and 7.5 minutes of source-linked production timing
 - [Madurai illustrated pilot and animatic](docs/09-storyboards/02_madurai_storyboard_pilot_and_animatic.md) — 25 panels covering SCN-MDU-017–026
 - [Madurai Storyboard V2 lock report](docs/09-storyboards/04_madurai_storyboard_v2_lock_report.md) — historically restrained court, circuits and selective-fire boards
 - [Playable Madurai animatic V1](docs/09-storyboards/05_madurai_animatic_v1_manifest.md) — 24-minute 1080p timing prototype with temporary Tamil voice and sound cues

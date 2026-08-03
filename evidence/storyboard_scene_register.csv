@@ -7,9 +7,9 @@ board_id,scene_id,world,source_ids,film_start_minute,film_end_minute,runtime_min
 006,SCN-PUK-006,Pukār,HWT-0038;HWT-0039;HWT-0040,14.5,16.0,1.5,Building and consecrating the stage,high,B,14,PD-PUK-01,circulation;water;lamps;anklet,illustrated_board_v1_research_hold
 007,SCN-PUK-007,Pukār,HWT-0041,16.0,19.0,3.0,Debut reward and garland threshold,high,A,14,PD-PUK-01,circulation;water;lamps;anklet,illustrated_board_v1_research_hold
 008,SCN-PUK-008,Pukār,HWT-0042;HWT-0043,19.0,20.5,1.5,Two evenings in one city,medium,A,10,PD-PUK-01,circulation;water;lamps;anklet,board_package_v1
-009,SCN-PUK-009,Pukār,HWT-0002-HWT-0022,20.5,23.5,3.0,The festival city mobilises,very_high,A,18,PD-PUK-02,circulation;water;lamps;anklet,board_package_v1
-010,SCN-PUK-010,Pukār,HWT-0023;HWT-0024,23.5,26.5,3.0,Eleven dances and the working costume,very_high,A,18,PD-PUK-02,circulation;water;lamps;anklet,board_package_v1
-011,SCN-PUK-011,Pukār,HWT-0025;HWT-0026;HWT-0027;HWT-0044,26.5,28.0,1.5,Through the lit city to the sea,high,B,14,PD-PUK-02,circulation;water;lamps;anklet,board_package_v1
+009,SCN-PUK-009,Pukār,HWT-0002-HWT-0022,20.5,23.5,3.0,The festival city mobilises,very_high,A,18,PD-PUK-02,circulation;water;lamps;anklet,illustrated_board_v1_research_hold
+010,SCN-PUK-010,Pukār,HWT-0023;HWT-0024,23.5,26.5,3.0,Eleven dances and the working costume,very_high,A,18,PD-PUK-02,circulation;water;lamps;anklet,illustrated_board_v1_research_hold
+011,SCN-PUK-011,Pukār,HWT-0025;HWT-0026;HWT-0027;HWT-0044,26.5,28.0,1.5,Through the lit city to the sea,high,B,14,PD-PUK-02,circulation;water;lamps;anklet,illustrated_board_v1_research_hold
 012,SCN-PUK-012,Pukār,HWT-0028;HWT-0045;HWT-0046;HWT-0047,28.0,31.0,3.0,The song that begins the break,medium,A,10,PD-PUK-02,circulation;water;lamps;anklet,illustrated_board_v1_research_hold
 013,SCN-PUK-013,Pukār,HWT-0048,31.0,32.5,1.5,Mādhavi answers in the same language,medium,A,10,PD-PUK-02,circulation;water;lamps;anklet,illustrated_board_v1_research_hold
 014,SCN-PUK-014,Pukār,HWT-0049,32.5,33.5,1.0,He leaves the performance unfinished,low,A,8,PD-PUK-02,circulation;water;lamps;anklet,illustrated_board_v1_research_hold
