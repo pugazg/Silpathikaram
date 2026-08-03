@@ -115,6 +115,10 @@ The completed 102-scene screenplay is now connected to department-level producti
 - [Storyboard register index](evidence/storyboard_register_index.csv) — machine-readable coverage control
 - [Visual reference-board manifest](docs/06-production-design/09_visual_reference_board_manifest.md) — four AI-assisted concept boards with provenance, checksums and research limits
 - [Critical visual research decisions](docs/06-production-design/10_critical_visual_research_decisions.md) — anklet, court, circuits, selective fire, costume and sacred-image controls
+- [Core character visual continuity V1](docs/06-production-design/11_core_character_visual_continuity_v1.md) — six-state concept sheets for Kaṇṇaki, Kōvalaṉ, Mādhavi and Kauṇṭi, with explicit research holds
+- [Character visual continuity register](evidence/character_visual_continuity_register.csv) — 24 source-linked character states for production and storyboard continuity
+- [Mādhavi training and debut storyboard V1](docs/09-storyboards/06_madhavi_debut_storyboard_v1.md) — ten illustrated panels covering SCN-PUK-005–007 and six minutes of film time
+- [Mādhavi storyboard panel register](evidence/madhavi_debut_storyboard_panels.csv) — panel timing, source, action and continuity controls
 - [Madurai illustrated pilot and animatic](docs/09-storyboards/02_madurai_storyboard_pilot_and_animatic.md) — 25 panels covering SCN-MDU-017–026
 - [Madurai Storyboard V2 lock report](docs/09-storyboards/04_madurai_storyboard_v2_lock_report.md) — historically restrained court, circuits and selective-fire boards
 - [Playable Madurai animatic V1](docs/09-storyboards/05_madurai_animatic_v1_manifest.md) — 24-minute 1080p timing prototype with temporary Tamil voice and sound cues

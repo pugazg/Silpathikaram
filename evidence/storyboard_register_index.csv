@@ -7,3 +7,5 @@ madurai_animatic_plan,SCN-MDU-017--SCN-MDU-026,25,24.0,docs/09-storyboards/02_ma
 madurai_playable_animatic,SCN-MDU-017--SCN-MDU-026,25,24.0,docs/09-storyboards/05_madurai_animatic_v1_manifest.md,playable_timing_prototype_v1
 visual_world_boards,PUK--ROAD--MDU--VAN,4,,docs/06-production-design/09_visual_reference_board_manifest.md,concept_v1_research_hold
 screenplay_visual_revision,SCN-MDU-017--SCN-MDU-026,10,24.0,docs/08-screenplay-development/drafts-v2/01_madurai_court_fire_v2_tamil.md,draft_v2_visual_blocking
+madhavi_illustrated_storyboard_v1,SCN-PUK-005--SCN-PUK-007,10,6.0,evidence/madhavi_debut_storyboard_panels.csv,illustrated_board_v1_research_hold
+core_character_visual_continuity,PUK--ROAD--MDU--VAN,24_states,,evidence/character_visual_continuity_register.csv,concept_v1_research_hold
