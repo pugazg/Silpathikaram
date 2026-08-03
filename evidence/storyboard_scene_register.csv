@@ -10,9 +10,9 @@ board_id,scene_id,world,source_ids,film_start_minute,film_end_minute,runtime_min
 009,SCN-PUK-009,Pukār,HWT-0002-HWT-0022,20.5,23.5,3.0,The festival city mobilises,very_high,A,18,PD-PUK-02,circulation;water;lamps;anklet,board_package_v1
 010,SCN-PUK-010,Pukār,HWT-0023;HWT-0024,23.5,26.5,3.0,Eleven dances and the working costume,very_high,A,18,PD-PUK-02,circulation;water;lamps;anklet,board_package_v1
 011,SCN-PUK-011,Pukār,HWT-0025;HWT-0026;HWT-0027;HWT-0044,26.5,28.0,1.5,Through the lit city to the sea,high,B,14,PD-PUK-02,circulation;water;lamps;anklet,board_package_v1
-012,SCN-PUK-012,Pukār,HWT-0028;HWT-0045;HWT-0046;HWT-0047,28.0,31.0,3.0,The song that begins the break,medium,A,10,PD-PUK-02,circulation;water;lamps;anklet,board_package_v1
-013,SCN-PUK-013,Pukār,HWT-0048,31.0,32.5,1.5,Mādhavi answers in the same language,medium,A,10,PD-PUK-02,circulation;water;lamps;anklet,board_package_v1
-014,SCN-PUK-014,Pukār,HWT-0049,32.5,33.5,1.0,He leaves the performance unfinished,low,A,8,PD-PUK-02,circulation;water;lamps;anklet,board_package_v1
+012,SCN-PUK-012,Pukār,HWT-0028;HWT-0045;HWT-0046;HWT-0047,28.0,31.0,3.0,The song that begins the break,medium,A,10,PD-PUK-02,circulation;water;lamps;anklet,illustrated_board_v1_research_hold
+013,SCN-PUK-013,Pukār,HWT-0048,31.0,32.5,1.5,Mādhavi answers in the same language,medium,A,10,PD-PUK-02,circulation;water;lamps;anklet,illustrated_board_v1_research_hold
+014,SCN-PUK-014,Pukār,HWT-0049,32.5,33.5,1.0,He leaves the performance unfinished,low,A,8,PD-PUK-02,circulation;water;lamps;anklet,illustrated_board_v1_research_hold
 015,SCN-PUK-015,Pukār,HWT-0050;HWT-0051,33.5,34.5,1.0,Summer after the rupture,medium,B,10,PD-PUK-02,circulation;water;lamps;anklet,board_package_v1
 016,SCN-PUK-016,Pukār,HWT-0052;HWT-0053,34.5,36.5,2.0,The flower-letter,medium,A,10,PD-PUK-02,circulation;water;lamps;anklet,board_package_v1
 017,SCN-PUK-017,Pukār,HWT-0054;HWT-0055,36.5,37.5,1.0,Sacred plurality and the warning dream,medium,B,10,PD-PUK-03,circulation;water;lamps;anklet,planned_board_v1
