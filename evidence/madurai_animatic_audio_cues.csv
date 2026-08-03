@@ -1,0 +1,11 @@
+cue_id,start_seconds,speaker_or_effect,tamil_text_or_sound,purpose
+A01,38,Kaṇṇaki,"என் ஊர் புகார். கோவலன் என் கணவன். அவன் கொண்டு வந்த சிலம்பு என் உடைமை.",Establish standing and ownership
+A02,190,Kaṇṇaki,"அரசியின் சிலம்பில் முத்து. என் சிலம்பில் மாணிக்கம். இங்கே எல்லோரும் காணச் சோதியுங்கள்.",State the material test
+A03,310,Kaṇṇaki,"அவன் உயிரோடு இருந்தபோது இதைச் செய்திருக்க வேண்டியது.",Mark irreversible lateness
+A04,488,Pāṇḍya king,"நானே கள்வன்.",Royal self-indictment
+A05,625,Kaṇṇaki,"உண்மை தனிமையில் இல்லை. முன் நின்ற பெண்களின் நினைவு இதைக் கேட்கிறது.",Invoke remembered women without apparitions
+A06,720,Kaṇṇaki,"கேளாமல் கொன்ற அரசனின் பிழை அரண்மனையில் மட்டும் நிற்காது. நகர ஒழுங்கும் பதில் சொல்ல வேண்டும்.",Extend responsibility to the civic order
+A07,964,Kaṇṇaki,"காப்பாற்றப்பட வேண்டிய உயிர்களை விலக்குக.",Bound the fire before ignition
+S01,300,metal_effect,anklet fracture,Material evidence impact marker
+S02,493,sceptre_effect,sceptre strikes stone,Institutional collapse marker
+S03,1080,fire_effect,fire and evacuation rise,Selective catastrophe marker
